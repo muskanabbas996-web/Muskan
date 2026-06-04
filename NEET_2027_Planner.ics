@@ -1,0 +1,3990 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NEET2027Planner//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:NEET 2027 Study Plan
+BEGIN:VEVENT
+UID:20260605@neet2027
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260606
+SUMMARY:NEET: Bio-Cell - the unit of life | Chem-Some basic concepts  | Phy-Units and Measuremen
+DESCRIPTION:Biology: Cell - the unit of life\nChemistry: Some basic concepts of chemistry\nPhysics: Units and Measurements\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260606@neet2027
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260607
+SUMMARY:NEET: Bio-Cell - the unit of life | Chem-Some basic concepts  | Phy-Units and Measuremen
+DESCRIPTION:Biology: Cell - the unit of life\nChemistry: Some basic concepts of chemistry\nPhysics: Units and Measurements\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260607@neet2027
+DTSTART;VALUE=DATE:20260607
+DTEND;VALUE=DATE:20260608
+SUMMARY:MOCK TEST - NEET: Bio-Cell - the unit of life | Chem-Some basic concepts  | Phy-Units and Measuremen
+DESCRIPTION:Biology: Cell - the unit of life\nChemistry: Some basic concepts of chemistry\nPhysics: Units and Measurements\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log\nMOCK TEST TODAY
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260608@neet2027
+DTSTART;VALUE=DATE:20260608
+DTEND;VALUE=DATE:20260609
+SUMMARY:NEET: Bio-Cell cycle and cell division | Chem-Some basic concepts  | Phy-Units and Measuremen
+DESCRIPTION:Biology: Cell cycle and cell division\nChemistry: Some basic concepts of chemistry\nPhysics: Units and Measurements\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260609@neet2027
+DTSTART;VALUE=DATE:20260609
+DTEND;VALUE=DATE:20260610
+SUMMARY:NEET: Bio-Cell cycle and cell division | Chem-Structure of Atom | Phy-Motion in a Straight
+DESCRIPTION:Biology: Cell cycle and cell division\nChemistry: Structure of Atom\nPhysics: Motion in a Straight Line\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260610@neet2027
+DTSTART;VALUE=DATE:20260610
+DTEND;VALUE=DATE:20260611
+SUMMARY:NEET: Bio-The living world | Chem-Structure of Atom | Phy-Motion in a Straight
+DESCRIPTION:Biology: The living world\nChemistry: Structure of Atom\nPhysics: Motion in a Straight Line\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260611@neet2027
+DTSTART;VALUE=DATE:20260611
+DTEND;VALUE=DATE:20260612
+SUMMARY:NEET: Bio-The living world | Chem-Structure of Atom | Phy-Motion in a Straight
+DESCRIPTION:Biology: The living world\nChemistry: Structure of Atom\nPhysics: Motion in a Straight Line\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260612@neet2027
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260613
+SUMMARY:NEET: Bio-Biological classification | Chem-Classification of El | Phy-Motion in a Plane
+DESCRIPTION:Biology: Biological classification\nChemistry: Classification of Elements and Periodicity in Properties\nPhysics: Motion in a Plane\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260613@neet2027
+DTSTART;VALUE=DATE:20260613
+DTEND;VALUE=DATE:20260614
+SUMMARY:NEET: Bio-Biological classification | Chem-Classification of El | Phy-Motion in a Plane
+DESCRIPTION:Biology: Biological classification\nChemistry: Classification of Elements and Periodicity in Properties\nPhysics: Motion in a Plane\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260614@neet2027
+DTSTART;VALUE=DATE:20260614
+DTEND;VALUE=DATE:20260615
+SUMMARY:MOCK TEST - NEET: Bio-Morphology of flowering plant | Chem-Classification of El | Phy-Motion in a Plane
+DESCRIPTION:Biology: Morphology of flowering plant\nChemistry: Classification of Elements and Periodicity in Properties\nPhysics: Motion in a Plane\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log\nMOCK TEST TODAY
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260615@neet2027
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:NEET: Bio-Morphology of flowering plant | Chem-Chemical Bonding and | Phy-Laws of Motion
+DESCRIPTION:Biology: Morphology of flowering plant\nChemistry: Chemical Bonding and Molecular Structure\nPhysics: Laws of Motion\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260616@neet2027
+DTSTART;VALUE=DATE:20260616
+DTEND;VALUE=DATE:20260617
+SUMMARY:NEET: Bio-Anatomy of flowering plant | Chem-Chemical Bonding and | Phy-Laws of Motion
+DESCRIPTION:Biology: Anatomy of flowering plant\nChemistry: Chemical Bonding and Molecular Structure\nPhysics: Laws of Motion\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260617@neet2027
+DTSTART;VALUE=DATE:20260617
+DTEND;VALUE=DATE:20260618
+SUMMARY:NEET: Bio-Anatomy of flowering plant | Chem-Chemical Bonding and | Phy-Laws of Motion
+DESCRIPTION:Biology: Anatomy of flowering plant\nChemistry: Chemical Bonding and Molecular Structure\nPhysics: Laws of Motion\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260618@neet2027
+DTSTART;VALUE=DATE:20260618
+DTEND;VALUE=DATE:20260619
+SUMMARY:NEET: Bio-Plant kingdom | Chem-Thermodynamics | Phy-Work Energy and Powe
+DESCRIPTION:Biology: Plant kingdom\nChemistry: Thermodynamics\nPhysics: Work Energy and Power\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260619@neet2027
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:NEET: Bio-Plant kingdom | Chem-Thermodynamics | Phy-Work Energy and Powe
+DESCRIPTION:Biology: Plant kingdom\nChemistry: Thermodynamics\nPhysics: Work Energy and Power\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260620@neet2027
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260621
+SUMMARY:NEET: Bio-Photosynthesis in higher plant | Chem-Thermodynamics | Phy-Work Energy and Powe
+DESCRIPTION:Biology: Photosynthesis in higher plants\nChemistry: Thermodynamics\nPhysics: Work Energy and Power\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260621@neet2027
+DTSTART;VALUE=DATE:20260621
+DTEND;VALUE=DATE:20260622
+SUMMARY:MOCK TEST - NEET: Bio-Photosynthesis in higher plant | Chem-Equilibrium | Phy-System of Particles 
+DESCRIPTION:Biology: Photosynthesis in higher plants\nChemistry: Equilibrium\nPhysics: System of Particles and Rotational Motion\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log\nMOCK TEST TODAY
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260622@neet2027
+DTSTART;VALUE=DATE:20260622
+DTEND;VALUE=DATE:20260623
+SUMMARY:NEET: Bio-Respiration in plants | Chem-Equilibrium | Phy-System of Particles 
+DESCRIPTION:Biology: Respiration in plants\nChemistry: Equilibrium\nPhysics: System of Particles and Rotational Motion\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260623@neet2027
+DTSTART;VALUE=DATE:20260623
+DTEND;VALUE=DATE:20260624
+SUMMARY:NEET: Bio-Respiration in plants | Chem-Equilibrium | Phy-System of Particles 
+DESCRIPTION:Biology: Respiration in plants\nChemistry: Equilibrium\nPhysics: System of Particles and Rotational Motion\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260624@neet2027
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260625
+SUMMARY:NEET: Bio-Plant growth and development | Chem-Redox Reactions | Phy-Gravitation
+DESCRIPTION:Biology: Plant growth and development\nChemistry: Redox Reactions\nPhysics: Gravitation\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260625@neet2027
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260626
+SUMMARY:NEET: Bio-Plant growth and development | Chem-Redox Reactions | Phy-Gravitation
+DESCRIPTION:Biology: Plant growth and development\nChemistry: Redox Reactions\nPhysics: Gravitation\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260626@neet2027
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260627
+SUMMARY:NEET: Bio-Sexual reproduction in floweri | Chem-Redox Reactions | Phy-Gravitation
+DESCRIPTION:Biology: Sexual reproduction in flowering plant\nChemistry: Redox Reactions\nPhysics: Gravitation\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260627@neet2027
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260628
+SUMMARY:NEET: Bio-Sexual reproduction in floweri | Chem-The p-Block Elements | Phy-Mechanical Propertie
+DESCRIPTION:Biology: Sexual reproduction in flowering plant\nChemistry: The p-Block Elements (Class 11)\nPhysics: Mechanical Properties of Solids\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260628@neet2027
+DTSTART;VALUE=DATE:20260628
+DTEND;VALUE=DATE:20260629
+SUMMARY:MOCK TEST - NEET: Bio-Principles of inheritance and  | Chem-The p-Block Elements | Phy-Mechanical Propertie
+DESCRIPTION:Biology: Principles of inheritance and variation\nChemistry: The p-Block Elements (Class 11)\nPhysics: Mechanical Properties of Solids\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log\nMOCK TEST TODAY
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260629@neet2027
+DTSTART;VALUE=DATE:20260629
+DTEND;VALUE=DATE:20260630
+SUMMARY:NEET: Bio-Principles of inheritance and  | Chem-The p-Block Elements | Phy-Mechanical Propertie
+DESCRIPTION:Biology: Principles of inheritance and variation\nChemistry: The p-Block Elements (Class 11)\nPhysics: Mechanical Properties of Solids\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260630@neet2027
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:NEET: Bio-Molecular basis of inheritance | Chem-Organic Chemistry -  | Phy-Mechanical Propertie
+DESCRIPTION:Biology: Molecular basis of inheritance\nChemistry: Organic Chemistry - Some Basic Principles and Techniques\nPhysics: Mechanical Properties of Fluids\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260701@neet2027
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260702
+SUMMARY:NEET: Bio-Molecular basis of inheritance | Chem-Organic Chemistry -  | Phy-Mechanical Propertie
+DESCRIPTION:Biology: Molecular basis of inheritance\nChemistry: Organic Chemistry - Some Basic Principles and Techniques\nPhysics: Mechanical Properties of Fluids\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260702@neet2027
+DTSTART;VALUE=DATE:20260702
+DTEND;VALUE=DATE:20260703
+SUMMARY:NEET: Bio-Microbes in human welfare | Chem-Organic Chemistry -  | Phy-Mechanical Propertie
+DESCRIPTION:Biology: Microbes in human welfare\nChemistry: Organic Chemistry - Some Basic Principles and Techniques\nPhysics: Mechanical Properties of Fluids\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260703@neet2027
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260704
+SUMMARY:NEET: Bio-Microbes in human welfare | Chem-Hydrocarbons | Phy-Thermal Properties o
+DESCRIPTION:Biology: Microbes in human welfare\nChemistry: Hydrocarbons\nPhysics: Thermal Properties of Matter\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260704@neet2027
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260705
+SUMMARY:NEET: Bio-Organisms and population | Chem-Hydrocarbons | Phy-Thermal Properties o
+DESCRIPTION:Biology: Organisms and population\nChemistry: Hydrocarbons\nPhysics: Thermal Properties of Matter\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260705@neet2027
+DTSTART;VALUE=DATE:20260705
+DTEND;VALUE=DATE:20260706
+SUMMARY:MOCK TEST - NEET: Bio-Organisms and population | Chem-Hydrocarbons | Phy-Thermal Properties o
+DESCRIPTION:Biology: Organisms and population\nChemistry: Hydrocarbons\nPhysics: Thermal Properties of Matter\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log\nMOCK TEST TODAY
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260706@neet2027
+DTSTART;VALUE=DATE:20260706
+DTEND;VALUE=DATE:20260707
+SUMMARY:NEET: Bio-Ecosystem | Chem-Solutions | Phy-Thermodynamics
+DESCRIPTION:Biology: Ecosystem\nChemistry: Solutions\nPhysics: Thermodynamics\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260707@neet2027
+DTSTART;VALUE=DATE:20260707
+DTEND;VALUE=DATE:20260708
+SUMMARY:NEET: Bio-Ecosystem | Chem-Solutions | Phy-Thermodynamics
+DESCRIPTION:Biology: Ecosystem\nChemistry: Solutions\nPhysics: Thermodynamics\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260708@neet2027
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20260709
+SUMMARY:NEET: Bio-Biodiversity and conservation | Chem-Solutions | Phy-Thermodynamics
+DESCRIPTION:Biology: Biodiversity and conservation\nChemistry: Solutions\nPhysics: Thermodynamics\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260709@neet2027
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260710
+SUMMARY:NEET: Bio-Biodiversity and conservation | Chem-Electrochemistry | Phy-Kinetic Theory
+DESCRIPTION:Biology: Biodiversity and conservation\nChemistry: Electrochemistry\nPhysics: Kinetic Theory\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260710@neet2027
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260711
+SUMMARY:NEET: Bio-Structural Organisation in Ani | Chem-Electrochemistry | Phy-Kinetic Theory
+DESCRIPTION:Biology: Structural Organisation in Animals (Animal Tissues)\nChemistry: Electrochemistry\nPhysics: Kinetic Theory\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260711@neet2027
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+SUMMARY:NEET: Bio-Structural Organisation in Ani | Chem-Electrochemistry | Phy-Kinetic Theory
+DESCRIPTION:Biology: Structural Organisation in Animals (Animal Tissues)\nChemistry: Electrochemistry\nPhysics: Kinetic Theory\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260712@neet2027
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260713
+SUMMARY:MOCK TEST - NEET: Bio-Biomolecules | Chem-Chemical Kinetics | Phy-Oscillations
+DESCRIPTION:Biology: Biomolecules\nChemistry: Chemical Kinetics\nPhysics: Oscillations\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log\nMOCK TEST TODAY
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260713@neet2027
+DTSTART;VALUE=DATE:20260713
+DTEND;VALUE=DATE:20260714
+SUMMARY:NEET: Bio-Biomolecules | Chem-Chemical Kinetics | Phy-Oscillations
+DESCRIPTION:Biology: Biomolecules\nChemistry: Chemical Kinetics\nPhysics: Oscillations\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260714@neet2027
+DTSTART;VALUE=DATE:20260714
+DTEND;VALUE=DATE:20260715
+SUMMARY:NEET: Bio-Digestion and Absorption | Chem-Chemical Kinetics | Phy-Oscillations
+DESCRIPTION:Biology: Digestion and Absorption\nChemistry: Chemical Kinetics\nPhysics: Oscillations\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260715@neet2027
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260716
+SUMMARY:NEET: Bio-Digestion and Absorption | Chem-The p-Block Elements | Phy-Waves
+DESCRIPTION:Biology: Digestion and Absorption\nChemistry: The p-Block Elements (Class 12)\nPhysics: Waves\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260716@neet2027
+DTSTART;VALUE=DATE:20260716
+DTEND;VALUE=DATE:20260717
+SUMMARY:NEET: Bio-Breathing and Exchange of Gase | Chem-The p-Block Elements | Phy-Waves
+DESCRIPTION:Biology: Breathing and Exchange of Gases\nChemistry: The p-Block Elements (Class 12)\nPhysics: Waves\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260717@neet2027
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260718
+SUMMARY:NEET: Bio-Breathing and Exchange of Gase | Chem-The p-Block Elements | Phy-Waves
+DESCRIPTION:Biology: Breathing and Exchange of Gases\nChemistry: The p-Block Elements (Class 12)\nPhysics: Waves\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260718@neet2027
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:NEET: Bio-Body Fluids and Circulation | Chem-The d and f-Block El | Phy-Electric Charges and
+DESCRIPTION:Biology: Body Fluids and Circulation\nChemistry: The d and f-Block Elements\nPhysics: Electric Charges and Fields\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260719@neet2027
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+SUMMARY:MOCK TEST - NEET: Bio-Body Fluids and Circulation | Chem-The d and f-Block El | Phy-Electric Charges and
+DESCRIPTION:Biology: Body Fluids and Circulation\nChemistry: The d and f-Block Elements\nPhysics: Electric Charges and Fields\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log\nMOCK TEST TODAY
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260720@neet2027
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260721
+SUMMARY:NEET: Bio-Excretory Products and their E | Chem-The d and f-Block El | Phy-Electric Charges and
+DESCRIPTION:Biology: Excretory Products and their Elimination\nChemistry: The d and f-Block Elements\nPhysics: Electric Charges and Fields\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260721@neet2027
+DTSTART;VALUE=DATE:20260721
+DTEND;VALUE=DATE:20260722
+SUMMARY:NEET: Bio-Excretory Products and their E | Chem-Coordination Compoun | Phy-Electrostatic Potent
+DESCRIPTION:Biology: Excretory Products and their Elimination\nChemistry: Coordination Compounds\nPhysics: Electrostatic Potential and Capacitance\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260722@neet2027
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260723
+SUMMARY:NEET: Bio-Locomotion and Movement | Chem-Coordination Compoun | Phy-Electrostatic Potent
+DESCRIPTION:Biology: Locomotion and Movement\nChemistry: Coordination Compounds\nPhysics: Electrostatic Potential and Capacitance\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260723@neet2027
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260724
+SUMMARY:NEET: Bio-Locomotion and Movement | Chem-Coordination Compoun | Phy-Electrostatic Potent
+DESCRIPTION:Biology: Locomotion and Movement\nChemistry: Coordination Compounds\nPhysics: Electrostatic Potential and Capacitance\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260724@neet2027
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260725
+SUMMARY:NEET: Bio-Neural Control and Coordinatio | Chem-Haloalkanes and Halo | Phy-Current Electricity
+DESCRIPTION:Biology: Neural Control and Coordination\nChemistry: Haloalkanes and Haloarenes\nPhysics: Current Electricity\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260725@neet2027
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:NEET: Bio-Neural Control and Coordinatio | Chem-Haloalkanes and Halo | Phy-Current Electricity
+DESCRIPTION:Biology: Neural Control and Coordination\nChemistry: Haloalkanes and Haloarenes\nPhysics: Current Electricity\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260726@neet2027
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+SUMMARY:MOCK TEST - NEET: Bio-Chemical Coordination and Inte | Chem-Haloalkanes and Halo | Phy-Current Electricity
+DESCRIPTION:Biology: Chemical Coordination and Integration\nChemistry: Haloalkanes and Haloarenes\nPhysics: Current Electricity\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log\nMOCK TEST TODAY
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260727@neet2027
+DTSTART;VALUE=DATE:20260727
+DTEND;VALUE=DATE:20260728
+SUMMARY:NEET: Bio-Chemical Coordination and Inte | Chem-Alcohols, Phenols an | Phy-Moving Charges and M
+DESCRIPTION:Biology: Chemical Coordination and Integration\nChemistry: Alcohols, Phenols and Ethers\nPhysics: Moving Charges and Magnetism\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260728@neet2027
+DTSTART;VALUE=DATE:20260728
+DTEND;VALUE=DATE:20260729
+SUMMARY:NEET: Bio-Animal Kingdom | Chem-Alcohols, Phenols an | Phy-Moving Charges and M
+DESCRIPTION:Biology: Animal Kingdom\nChemistry: Alcohols, Phenols and Ethers\nPhysics: Moving Charges and Magnetism\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260729@neet2027
+DTSTART;VALUE=DATE:20260729
+DTEND;VALUE=DATE:20260730
+SUMMARY:NEET: Bio-Animal Kingdom | Chem-Alcohols, Phenols an | Phy-Moving Charges and M
+DESCRIPTION:Biology: Animal Kingdom\nChemistry: Alcohols, Phenols and Ethers\nPhysics: Moving Charges and Magnetism\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260730@neet2027
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260731
+SUMMARY:NEET: Bio-Human Reproduction | Chem-Aldehydes, Ketones a | Phy-Magnetism and Matter
+DESCRIPTION:Biology: Human Reproduction\nChemistry: Aldehydes, Ketones and Carboxylic Acids\nPhysics: Magnetism and Matter\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260731@neet2027
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:NEET: Bio-Human Reproduction | Chem-Aldehydes, Ketones a | Phy-Magnetism and Matter
+DESCRIPTION:Biology: Human Reproduction\nChemistry: Aldehydes, Ketones and Carboxylic Acids\nPhysics: Magnetism and Matter\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260801@neet2027
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+SUMMARY:NEET: Bio-Reproductive Health | Chem-Aldehydes, Ketones a | Phy-Magnetism and Matter
+DESCRIPTION:Biology: Reproductive Health\nChemistry: Aldehydes, Ketones and Carboxylic Acids\nPhysics: Magnetism and Matter\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260802@neet2027
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260803
+SUMMARY:MOCK TEST - NEET: Bio-Reproductive Health | Chem-Amines | Phy-Electromagnetic Indu
+DESCRIPTION:Biology: Reproductive Health\nChemistry: Amines\nPhysics: Electromagnetic Induction\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log\nMOCK TEST TODAY
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260803@neet2027
+DTSTART;VALUE=DATE:20260803
+DTEND;VALUE=DATE:20260804
+SUMMARY:NEET: Bio-Evolution | Chem-Amines | Phy-Electromagnetic Indu
+DESCRIPTION:Biology: Evolution\nChemistry: Amines\nPhysics: Electromagnetic Induction\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260804@neet2027
+DTSTART;VALUE=DATE:20260804
+DTEND;VALUE=DATE:20260805
+SUMMARY:NEET: Bio-Evolution | Chem-Amines | Phy-Electromagnetic Indu
+DESCRIPTION:Biology: Evolution\nChemistry: Amines\nPhysics: Electromagnetic Induction\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260805@neet2027
+DTSTART;VALUE=DATE:20260805
+DTEND;VALUE=DATE:20260806
+SUMMARY:NEET: Bio-Human Health and Disease | Chem-Biomolecules | Phy-Alternating Current
+DESCRIPTION:Biology: Human Health and Disease\nChemistry: Biomolecules\nPhysics: Alternating Current\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260806@neet2027
+DTSTART;VALUE=DATE:20260806
+DTEND;VALUE=DATE:20260807
+SUMMARY:NEET: Bio-Human Health and Disease | Chem-Biomolecules | Phy-Alternating Current
+DESCRIPTION:Biology: Human Health and Disease\nChemistry: Biomolecules\nPhysics: Alternating Current\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260807@neet2027
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260808
+SUMMARY:NEET: Bio-Biotechnology - Principles and | Chem-Biomolecules | Phy-Alternating Current
+DESCRIPTION:Biology: Biotechnology - Principles and Processes\nChemistry: Biomolecules\nPhysics: Alternating Current\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260808@neet2027
+DTSTART;VALUE=DATE:20260808
+DTEND;VALUE=DATE:20260809
+SUMMARY:NEET: Bio-Biotechnology - Principles and | Chem-Some basic concepts  | Phy-Electromagnetic Wave
+DESCRIPTION:Biology: Biotechnology - Principles and Processes\nChemistry: Some basic concepts of chemistry\nPhysics: Electromagnetic Waves\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260809@neet2027
+DTSTART;VALUE=DATE:20260809
+DTEND;VALUE=DATE:20260810
+SUMMARY:MOCK TEST - NEET: Bio-Biotechnology and its applicat | Chem-Some basic concepts  | Phy-Electromagnetic Wave
+DESCRIPTION:Biology: Biotechnology and its applications\nChemistry: Some basic concepts of chemistry\nPhysics: Electromagnetic Waves\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log\nMOCK TEST TODAY
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260810@neet2027
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260811
+SUMMARY:NEET: Bio-Biotechnology and its applicat | Chem-Some basic concepts  | Phy-Electromagnetic Wave
+DESCRIPTION:Biology: Biotechnology and its applications\nChemistry: Some basic concepts of chemistry\nPhysics: Electromagnetic Waves\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260811@neet2027
+DTSTART;VALUE=DATE:20260811
+DTEND;VALUE=DATE:20260812
+SUMMARY:NEET: Bio-Cell - the unit of life | Chem-Structure of Atom | Phy-Ray Optics and Optic
+DESCRIPTION:Biology: Cell - the unit of life\nChemistry: Structure of Atom\nPhysics: Ray Optics and Optical Instruments\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260812@neet2027
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+SUMMARY:NEET: Bio-Cell - the unit of life | Chem-Structure of Atom | Phy-Ray Optics and Optic
+DESCRIPTION:Biology: Cell - the unit of life\nChemistry: Structure of Atom\nPhysics: Ray Optics and Optical Instruments\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260813@neet2027
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260814
+SUMMARY:NEET: Bio-Cell cycle and cell division | Chem-Structure of Atom | Phy-Ray Optics and Optic
+DESCRIPTION:Biology: Cell cycle and cell division\nChemistry: Structure of Atom\nPhysics: Ray Optics and Optical Instruments\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260814@neet2027
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+SUMMARY:NEET: Bio-Cell cycle and cell division | Chem-Classification of El | Phy-Wave Optics
+DESCRIPTION:Biology: Cell cycle and cell division\nChemistry: Classification of Elements and Periodicity in Properties\nPhysics: Wave Optics\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260815@neet2027
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+SUMMARY:NEET: Bio-The living world | Chem-Classification of El | Phy-Wave Optics
+DESCRIPTION:Biology: The living world\nChemistry: Classification of Elements and Periodicity in Properties\nPhysics: Wave Optics\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260816@neet2027
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+SUMMARY:MOCK TEST - NEET: Bio-The living world | Chem-Classification of El | Phy-Wave Optics
+DESCRIPTION:Biology: The living world\nChemistry: Classification of Elements and Periodicity in Properties\nPhysics: Wave Optics\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log\nMOCK TEST TODAY
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260817@neet2027
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260818
+SUMMARY:NEET: Bio-Biological classification | Chem-Chemical Bonding and | Phy-Dual Nature of Radia
+DESCRIPTION:Biology: Biological classification\nChemistry: Chemical Bonding and Molecular Structure\nPhysics: Dual Nature of Radiation and Matter\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260818@neet2027
+DTSTART;VALUE=DATE:20260818
+DTEND;VALUE=DATE:20260819
+SUMMARY:NEET: Bio-Biological classification | Chem-Chemical Bonding and | Phy-Dual Nature of Radia
+DESCRIPTION:Biology: Biological classification\nChemistry: Chemical Bonding and Molecular Structure\nPhysics: Dual Nature of Radiation and Matter\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260819@neet2027
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260820
+SUMMARY:NEET: Bio-Morphology of flowering plant | Chem-Chemical Bonding and | Phy-Dual Nature of Radia
+DESCRIPTION:Biology: Morphology of flowering plant\nChemistry: Chemical Bonding and Molecular Structure\nPhysics: Dual Nature of Radiation and Matter\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260820@neet2027
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260821
+SUMMARY:NEET: Bio-Morphology of flowering plant | Chem-Thermodynamics | Phy-Atoms
+DESCRIPTION:Biology: Morphology of flowering plant\nChemistry: Thermodynamics\nPhysics: Atoms\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260821@neet2027
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+SUMMARY:NEET: Bio-Anatomy of flowering plant | Chem-Thermodynamics | Phy-Atoms
+DESCRIPTION:Biology: Anatomy of flowering plant\nChemistry: Thermodynamics\nPhysics: Atoms\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260822@neet2027
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260823
+SUMMARY:NEET: Bio-Anatomy of flowering plant | Chem-Thermodynamics | Phy-Atoms
+DESCRIPTION:Biology: Anatomy of flowering plant\nChemistry: Thermodynamics\nPhysics: Atoms\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260823@neet2027
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260824
+SUMMARY:MOCK TEST - NEET: Bio-Plant kingdom | Chem-Equilibrium | Phy-Nuclei
+DESCRIPTION:Biology: Plant kingdom\nChemistry: Equilibrium\nPhysics: Nuclei\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log\nMOCK TEST TODAY
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260824@neet2027
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260825
+SUMMARY:NEET: Bio-Plant kingdom | Chem-Equilibrium | Phy-Nuclei
+DESCRIPTION:Biology: Plant kingdom\nChemistry: Equilibrium\nPhysics: Nuclei\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260825@neet2027
+DTSTART;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20260826
+SUMMARY:NEET: Bio-Photosynthesis in higher plant | Chem-Equilibrium | Phy-Nuclei
+DESCRIPTION:Biology: Photosynthesis in higher plants\nChemistry: Equilibrium\nPhysics: Nuclei\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260826@neet2027
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+SUMMARY:NEET: Bio-Photosynthesis in higher plant | Chem-Redox Reactions | Phy-Semiconductor Electr
+DESCRIPTION:Biology: Photosynthesis in higher plants\nChemistry: Redox Reactions\nPhysics: Semiconductor Electronics\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260827@neet2027
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260828
+SUMMARY:NEET: Bio-Respiration in plants | Chem-Redox Reactions | Phy-Semiconductor Electr
+DESCRIPTION:Biology: Respiration in plants\nChemistry: Redox Reactions\nPhysics: Semiconductor Electronics\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260828@neet2027
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:NEET: Bio-Respiration in plants | Chem-Redox Reactions | Phy-Semiconductor Electr
+DESCRIPTION:Biology: Respiration in plants\nChemistry: Redox Reactions\nPhysics: Semiconductor Electronics\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260829@neet2027
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260830
+SUMMARY:NEET: Bio-Plant growth and development | Chem-The p-Block Elements | Phy-Units and Measuremen
+DESCRIPTION:Biology: Plant growth and development\nChemistry: The p-Block Elements (Class 11)\nPhysics: Units and Measurements\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260830@neet2027
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+SUMMARY:MOCK TEST - NEET: Bio-Plant growth and development | Chem-The p-Block Elements | Phy-Units and Measuremen
+DESCRIPTION:Biology: Plant growth and development\nChemistry: The p-Block Elements (Class 11)\nPhysics: Units and Measurements\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log\nMOCK TEST TODAY
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260831@neet2027
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+SUMMARY:NEET: Bio-Sexual reproduction in floweri | Chem-The p-Block Elements | Phy-Units and Measuremen
+DESCRIPTION:Biology: Sexual reproduction in flowering plant\nChemistry: The p-Block Elements (Class 11)\nPhysics: Units and Measurements\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260901@neet2027
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:NEET: Bio-Sexual reproduction in floweri | Chem-Organic Chemistry -  | Phy-Motion in a Straight
+DESCRIPTION:Biology: Sexual reproduction in flowering plant\nChemistry: Organic Chemistry - Some Basic Principles and Techniques\nPhysics: Motion in a Straight Line\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260902@neet2027
+DTSTART;VALUE=DATE:20260902
+DTEND;VALUE=DATE:20260903
+SUMMARY:NEET: Bio-Principles of inheritance and  | Chem-Organic Chemistry -  | Phy-Motion in a Straight
+DESCRIPTION:Biology: Principles of inheritance and variation\nChemistry: Organic Chemistry - Some Basic Principles and Techniques\nPhysics: Motion in a Straight Line\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260903@neet2027
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260904
+SUMMARY:NEET: Bio-Principles of inheritance and  | Chem-Organic Chemistry -  | Phy-Motion in a Straight
+DESCRIPTION:Biology: Principles of inheritance and variation\nChemistry: Organic Chemistry - Some Basic Principles and Techniques\nPhysics: Motion in a Straight Line\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260904@neet2027
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:NEET: Bio-Molecular basis of inheritance | Chem-Hydrocarbons | Phy-Motion in a Plane
+DESCRIPTION:Biology: Molecular basis of inheritance\nChemistry: Hydrocarbons\nPhysics: Motion in a Plane\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260905@neet2027
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+SUMMARY:NEET: Bio-Molecular basis of inheritance | Chem-Hydrocarbons | Phy-Motion in a Plane
+DESCRIPTION:Biology: Molecular basis of inheritance\nChemistry: Hydrocarbons\nPhysics: Motion in a Plane\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260906@neet2027
+DTSTART;VALUE=DATE:20260906
+DTEND;VALUE=DATE:20260907
+SUMMARY:MOCK TEST - NEET: Bio-Microbes in human welfare | Chem-Hydrocarbons | Phy-Motion in a Plane
+DESCRIPTION:Biology: Microbes in human welfare\nChemistry: Hydrocarbons\nPhysics: Motion in a Plane\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log\nMOCK TEST TODAY
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260907@neet2027
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+SUMMARY:NEET: Bio-Microbes in human welfare | Chem-Solutions | Phy-Laws of Motion
+DESCRIPTION:Biology: Microbes in human welfare\nChemistry: Solutions\nPhysics: Laws of Motion\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260908@neet2027
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:NEET: Bio-Organisms and population | Chem-Solutions | Phy-Laws of Motion
+DESCRIPTION:Biology: Organisms and population\nChemistry: Solutions\nPhysics: Laws of Motion\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260909@neet2027
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
+SUMMARY:NEET: Bio-Organisms and population | Chem-Solutions | Phy-Laws of Motion
+DESCRIPTION:Biology: Organisms and population\nChemistry: Solutions\nPhysics: Laws of Motion\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260910@neet2027
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:NEET: Bio-Ecosystem | Chem-Electrochemistry | Phy-Work Energy and Powe
+DESCRIPTION:Biology: Ecosystem\nChemistry: Electrochemistry\nPhysics: Work Energy and Power\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260911@neet2027
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:NEET: Bio-Ecosystem | Chem-Electrochemistry | Phy-Work Energy and Powe
+DESCRIPTION:Biology: Ecosystem\nChemistry: Electrochemistry\nPhysics: Work Energy and Power\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260912@neet2027
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:NEET: Bio-Biodiversity and conservation | Chem-Electrochemistry | Phy-Work Energy and Powe
+DESCRIPTION:Biology: Biodiversity and conservation\nChemistry: Electrochemistry\nPhysics: Work Energy and Power\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260913@neet2027
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:MOCK TEST - NEET: Bio-Biodiversity and conservation | Chem-Chemical Kinetics | Phy-System of Particles 
+DESCRIPTION:Biology: Biodiversity and conservation\nChemistry: Chemical Kinetics\nPhysics: System of Particles and Rotational Motion\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log\nMOCK TEST TODAY
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260914@neet2027
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:NEET: Bio-Structural Organisation in Ani | Chem-Chemical Kinetics | Phy-System of Particles 
+DESCRIPTION:Biology: Structural Organisation in Animals (Animal Tissues)\nChemistry: Chemical Kinetics\nPhysics: System of Particles and Rotational Motion\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260915@neet2027
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:NEET: Bio-Structural Organisation in Ani | Chem-Chemical Kinetics | Phy-System of Particles 
+DESCRIPTION:Biology: Structural Organisation in Animals (Animal Tissues)\nChemistry: Chemical Kinetics\nPhysics: System of Particles and Rotational Motion\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260916@neet2027
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+SUMMARY:NEET: Bio-Biomolecules | Chem-The p-Block Elements | Phy-Gravitation
+DESCRIPTION:Biology: Biomolecules\nChemistry: The p-Block Elements (Class 12)\nPhysics: Gravitation\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260917@neet2027
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:NEET: Bio-Biomolecules | Chem-The p-Block Elements | Phy-Gravitation
+DESCRIPTION:Biology: Biomolecules\nChemistry: The p-Block Elements (Class 12)\nPhysics: Gravitation\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260918@neet2027
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:NEET: Bio-Digestion and Absorption | Chem-The p-Block Elements | Phy-Gravitation
+DESCRIPTION:Biology: Digestion and Absorption\nChemistry: The p-Block Elements (Class 12)\nPhysics: Gravitation\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260919@neet2027
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:NEET: Bio-Digestion and Absorption | Chem-The d and f-Block El | Phy-Mechanical Propertie
+DESCRIPTION:Biology: Digestion and Absorption\nChemistry: The d and f-Block Elements\nPhysics: Mechanical Properties of Solids\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260920@neet2027
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+SUMMARY:MOCK TEST - NEET: Bio-Breathing and Exchange of Gase | Chem-The d and f-Block El | Phy-Mechanical Propertie
+DESCRIPTION:Biology: Breathing and Exchange of Gases\nChemistry: The d and f-Block Elements\nPhysics: Mechanical Properties of Solids\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log\nMOCK TEST TODAY
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260921@neet2027
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+SUMMARY:NEET: Bio-Breathing and Exchange of Gase | Chem-The d and f-Block El | Phy-Mechanical Propertie
+DESCRIPTION:Biology: Breathing and Exchange of Gases\nChemistry: The d and f-Block Elements\nPhysics: Mechanical Properties of Solids\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260922@neet2027
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+SUMMARY:NEET: Bio-Body Fluids and Circulation | Chem-Coordination Compoun | Phy-Mechanical Propertie
+DESCRIPTION:Biology: Body Fluids and Circulation\nChemistry: Coordination Compounds\nPhysics: Mechanical Properties of Fluids\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260923@neet2027
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:NEET: Bio-Body Fluids and Circulation | Chem-Coordination Compoun | Phy-Mechanical Propertie
+DESCRIPTION:Biology: Body Fluids and Circulation\nChemistry: Coordination Compounds\nPhysics: Mechanical Properties of Fluids\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260924@neet2027
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:NEET: Bio-Excretory Products and their E | Chem-Coordination Compoun | Phy-Mechanical Propertie
+DESCRIPTION:Biology: Excretory Products and their Elimination\nChemistry: Coordination Compounds\nPhysics: Mechanical Properties of Fluids\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260925@neet2027
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:NEET: Bio-Excretory Products and their E | Chem-Haloalkanes and Halo | Phy-Thermal Properties o
+DESCRIPTION:Biology: Excretory Products and their Elimination\nChemistry: Haloalkanes and Haloarenes\nPhysics: Thermal Properties of Matter\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260926@neet2027
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:NEET: Bio-Locomotion and Movement | Chem-Haloalkanes and Halo | Phy-Thermal Properties o
+DESCRIPTION:Biology: Locomotion and Movement\nChemistry: Haloalkanes and Haloarenes\nPhysics: Thermal Properties of Matter\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260927@neet2027
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+SUMMARY:MOCK TEST - NEET: Bio-Locomotion and Movement | Chem-Haloalkanes and Halo | Phy-Thermal Properties o
+DESCRIPTION:Biology: Locomotion and Movement\nChemistry: Haloalkanes and Haloarenes\nPhysics: Thermal Properties of Matter\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log\nMOCK TEST TODAY
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260928@neet2027
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:NEET: Bio-Neural Control and Coordinatio | Chem-Alcohols, Phenols an | Phy-Thermodynamics
+DESCRIPTION:Biology: Neural Control and Coordination\nChemistry: Alcohols, Phenols and Ethers\nPhysics: Thermodynamics\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260929@neet2027
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:NEET: Bio-Neural Control and Coordinatio | Chem-Alcohols, Phenols an | Phy-Thermodynamics
+DESCRIPTION:Biology: Neural Control and Coordination\nChemistry: Alcohols, Phenols and Ethers\nPhysics: Thermodynamics\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260930@neet2027
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:NEET: Bio-Chemical Coordination and Inte | Chem-Alcohols, Phenols an | Phy-Thermodynamics
+DESCRIPTION:Biology: Chemical Coordination and Integration\nChemistry: Alcohols, Phenols and Ethers\nPhysics: Thermodynamics\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261001@neet2027
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:NEET: Bio-Chemical Coordination and Inte | Chem-Aldehydes, Ketones a | Phy-Kinetic Theory
+DESCRIPTION:Biology: Chemical Coordination and Integration\nChemistry: Aldehydes, Ketones and Carboxylic Acids\nPhysics: Kinetic Theory\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261002@neet2027
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:NEET: Bio-Animal Kingdom | Chem-Aldehydes, Ketones a | Phy-Kinetic Theory
+DESCRIPTION:Biology: Animal Kingdom\nChemistry: Aldehydes, Ketones and Carboxylic Acids\nPhysics: Kinetic Theory\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261003@neet2027
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:NEET: Bio-Animal Kingdom | Chem-Aldehydes, Ketones a | Phy-Kinetic Theory
+DESCRIPTION:Biology: Animal Kingdom\nChemistry: Aldehydes, Ketones and Carboxylic Acids\nPhysics: Kinetic Theory\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261004@neet2027
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+SUMMARY:MOCK TEST - NEET: Bio-Human Reproduction | Chem-Amines | Phy-Oscillations
+DESCRIPTION:Biology: Human Reproduction\nChemistry: Amines\nPhysics: Oscillations\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log\nMOCK TEST TODAY
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261005@neet2027
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:NEET: Bio-Human Reproduction | Chem-Amines | Phy-Oscillations
+DESCRIPTION:Biology: Human Reproduction\nChemistry: Amines\nPhysics: Oscillations\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261006@neet2027
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:NEET: Bio-Reproductive Health | Chem-Amines | Phy-Oscillations
+DESCRIPTION:Biology: Reproductive Health\nChemistry: Amines\nPhysics: Oscillations\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261007@neet2027
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:NEET: Bio-Reproductive Health | Chem-Biomolecules | Phy-Waves
+DESCRIPTION:Biology: Reproductive Health\nChemistry: Biomolecules\nPhysics: Waves\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261008@neet2027
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:NEET: Bio-Evolution | Chem-Biomolecules | Phy-Waves
+DESCRIPTION:Biology: Evolution\nChemistry: Biomolecules\nPhysics: Waves\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261009@neet2027
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:NEET: Bio-Evolution | Chem-Biomolecules | Phy-Waves
+DESCRIPTION:Biology: Evolution\nChemistry: Biomolecules\nPhysics: Waves\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261010@neet2027
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:NEET: Bio-Human Health and Disease | Chem-Some basic concepts  | Phy-Electric Charges and
+DESCRIPTION:Biology: Human Health and Disease\nChemistry: Some basic concepts of chemistry\nPhysics: Electric Charges and Fields\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261011@neet2027
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+SUMMARY:MOCK TEST - NEET: Bio-Human Health and Disease | Chem-Some basic concepts  | Phy-Electric Charges and
+DESCRIPTION:Biology: Human Health and Disease\nChemistry: Some basic concepts of chemistry\nPhysics: Electric Charges and Fields\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log\nMOCK TEST TODAY
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261012@neet2027
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:NEET: Bio-Biotechnology - Principles and | Chem-Some basic concepts  | Phy-Electric Charges and
+DESCRIPTION:Biology: Biotechnology - Principles and Processes\nChemistry: Some basic concepts of chemistry\nPhysics: Electric Charges and Fields\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261013@neet2027
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:NEET: Bio-Biotechnology - Principles and | Chem-Structure of Atom | Phy-Electrostatic Potent
+DESCRIPTION:Biology: Biotechnology - Principles and Processes\nChemistry: Structure of Atom\nPhysics: Electrostatic Potential and Capacitance\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261014@neet2027
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:NEET: Bio-Biotechnology and its applicat | Chem-Structure of Atom | Phy-Electrostatic Potent
+DESCRIPTION:Biology: Biotechnology and its applications\nChemistry: Structure of Atom\nPhysics: Electrostatic Potential and Capacitance\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261015@neet2027
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:NEET: Bio-Biotechnology and its applicat | Chem-Structure of Atom | Phy-Electrostatic Potent
+DESCRIPTION:Biology: Biotechnology and its applications\nChemistry: Structure of Atom\nPhysics: Electrostatic Potential and Capacitance\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261016@neet2027
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:NEET: Bio-Cell - the unit of life | Chem-Classification of El | Phy-Current Electricity
+DESCRIPTION:Biology: Cell - the unit of life\nChemistry: Classification of Elements and Periodicity in Properties\nPhysics: Current Electricity\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261017@neet2027
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:NEET: Bio-Cell - the unit of life | Chem-Classification of El | Phy-Current Electricity
+DESCRIPTION:Biology: Cell - the unit of life\nChemistry: Classification of Elements and Periodicity in Properties\nPhysics: Current Electricity\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261018@neet2027
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:MOCK TEST - NEET: Bio-Cell cycle and cell division | Chem-Classification of El | Phy-Current Electricity
+DESCRIPTION:Biology: Cell cycle and cell division\nChemistry: Classification of Elements and Periodicity in Properties\nPhysics: Current Electricity\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log\nMOCK TEST TODAY
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261019@neet2027
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:NEET: Bio-Cell cycle and cell division | Chem-Chemical Bonding and | Phy-Moving Charges and M
+DESCRIPTION:Biology: Cell cycle and cell division\nChemistry: Chemical Bonding and Molecular Structure\nPhysics: Moving Charges and Magnetism\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261020@neet2027
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:NEET: Bio-The living world | Chem-Chemical Bonding and | Phy-Moving Charges and M
+DESCRIPTION:Biology: The living world\nChemistry: Chemical Bonding and Molecular Structure\nPhysics: Moving Charges and Magnetism\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261021@neet2027
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:NEET: Bio-The living world | Chem-Chemical Bonding and | Phy-Moving Charges and M
+DESCRIPTION:Biology: The living world\nChemistry: Chemical Bonding and Molecular Structure\nPhysics: Moving Charges and Magnetism\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261022@neet2027
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:NEET: Bio-Biological classification | Chem-Thermodynamics | Phy-Magnetism and Matter
+DESCRIPTION:Biology: Biological classification\nChemistry: Thermodynamics\nPhysics: Magnetism and Matter\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261023@neet2027
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:NEET: Bio-Biological classification | Chem-Thermodynamics | Phy-Magnetism and Matter
+DESCRIPTION:Biology: Biological classification\nChemistry: Thermodynamics\nPhysics: Magnetism and Matter\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261024@neet2027
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:NEET: Bio-Morphology of flowering plant | Chem-Thermodynamics | Phy-Magnetism and Matter
+DESCRIPTION:Biology: Morphology of flowering plant\nChemistry: Thermodynamics\nPhysics: Magnetism and Matter\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261025@neet2027
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:MOCK TEST - NEET: Bio-Morphology of flowering plant | Chem-Equilibrium | Phy-Electromagnetic Indu
+DESCRIPTION:Biology: Morphology of flowering plant\nChemistry: Equilibrium\nPhysics: Electromagnetic Induction\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log\nMOCK TEST TODAY
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261026@neet2027
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:NEET: Bio-Anatomy of flowering plant | Chem-Equilibrium | Phy-Electromagnetic Indu
+DESCRIPTION:Biology: Anatomy of flowering plant\nChemistry: Equilibrium\nPhysics: Electromagnetic Induction\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261027@neet2027
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:NEET: Bio-Anatomy of flowering plant | Chem-Equilibrium | Phy-Electromagnetic Indu
+DESCRIPTION:Biology: Anatomy of flowering plant\nChemistry: Equilibrium\nPhysics: Electromagnetic Induction\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261028@neet2027
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:NEET: Bio-Plant kingdom | Chem-Redox Reactions | Phy-Alternating Current
+DESCRIPTION:Biology: Plant kingdom\nChemistry: Redox Reactions\nPhysics: Alternating Current\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261029@neet2027
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:NEET: Bio-Plant kingdom | Chem-Redox Reactions | Phy-Alternating Current
+DESCRIPTION:Biology: Plant kingdom\nChemistry: Redox Reactions\nPhysics: Alternating Current\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261030@neet2027
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:NEET: Bio-Photosynthesis in higher plant | Chem-Redox Reactions | Phy-Alternating Current
+DESCRIPTION:Biology: Photosynthesis in higher plants\nChemistry: Redox Reactions\nPhysics: Alternating Current\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261031@neet2027
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:NEET: Bio-Photosynthesis in higher plant | Chem-The p-Block Elements | Phy-Electromagnetic Wave
+DESCRIPTION:Biology: Photosynthesis in higher plants\nChemistry: The p-Block Elements (Class 11)\nPhysics: Electromagnetic Waves\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261101@neet2027
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:MOCK TEST - NEET: Bio-Respiration in plants | Chem-The p-Block Elements | Phy-Electromagnetic Wave
+DESCRIPTION:Biology: Respiration in plants\nChemistry: The p-Block Elements (Class 11)\nPhysics: Electromagnetic Waves\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log\nMOCK TEST TODAY
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261102@neet2027
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:NEET: Bio-Respiration in plants | Chem-The p-Block Elements | Phy-Electromagnetic Wave
+DESCRIPTION:Biology: Respiration in plants\nChemistry: The p-Block Elements (Class 11)\nPhysics: Electromagnetic Waves\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261103@neet2027
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:NEET: Bio-Plant growth and development | Chem-Organic Chemistry -  | Phy-Ray Optics and Optic
+DESCRIPTION:Biology: Plant growth and development\nChemistry: Organic Chemistry - Some Basic Principles and Techniques\nPhysics: Ray Optics and Optical Instruments\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261104@neet2027
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:NEET: Bio-Plant growth and development | Chem-Organic Chemistry -  | Phy-Ray Optics and Optic
+DESCRIPTION:Biology: Plant growth and development\nChemistry: Organic Chemistry - Some Basic Principles and Techniques\nPhysics: Ray Optics and Optical Instruments\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261105@neet2027
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:NEET: Bio-Sexual reproduction in floweri | Chem-Organic Chemistry -  | Phy-Ray Optics and Optic
+DESCRIPTION:Biology: Sexual reproduction in flowering plant\nChemistry: Organic Chemistry - Some Basic Principles and Techniques\nPhysics: Ray Optics and Optical Instruments\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261106@neet2027
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:NEET: Bio-Sexual reproduction in floweri | Chem-Hydrocarbons | Phy-Wave Optics
+DESCRIPTION:Biology: Sexual reproduction in flowering plant\nChemistry: Hydrocarbons\nPhysics: Wave Optics\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261107@neet2027
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:NEET: Bio-Principles of inheritance and  | Chem-Hydrocarbons | Phy-Wave Optics
+DESCRIPTION:Biology: Principles of inheritance and variation\nChemistry: Hydrocarbons\nPhysics: Wave Optics\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261108@neet2027
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:MOCK TEST - NEET: Bio-Principles of inheritance and  | Chem-Hydrocarbons | Phy-Wave Optics
+DESCRIPTION:Biology: Principles of inheritance and variation\nChemistry: Hydrocarbons\nPhysics: Wave Optics\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log\nMOCK TEST TODAY
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261109@neet2027
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:NEET: Bio-Molecular basis of inheritance | Chem-Solutions | Phy-Dual Nature of Radia
+DESCRIPTION:Biology: Molecular basis of inheritance\nChemistry: Solutions\nPhysics: Dual Nature of Radiation and Matter\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261110@neet2027
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:NEET: Bio-Molecular basis of inheritance | Chem-Solutions | Phy-Dual Nature of Radia
+DESCRIPTION:Biology: Molecular basis of inheritance\nChemistry: Solutions\nPhysics: Dual Nature of Radiation and Matter\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261111@neet2027
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:NEET: Bio-Microbes in human welfare | Chem-Solutions | Phy-Dual Nature of Radia
+DESCRIPTION:Biology: Microbes in human welfare\nChemistry: Solutions\nPhysics: Dual Nature of Radiation and Matter\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261112@neet2027
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:NEET: Bio-Microbes in human welfare | Chem-Electrochemistry | Phy-Atoms
+DESCRIPTION:Biology: Microbes in human welfare\nChemistry: Electrochemistry\nPhysics: Atoms\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261113@neet2027
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:NEET: Bio-Organisms and population | Chem-Electrochemistry | Phy-Atoms
+DESCRIPTION:Biology: Organisms and population\nChemistry: Electrochemistry\nPhysics: Atoms\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261114@neet2027
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:NEET: Bio-Organisms and population | Chem-Electrochemistry | Phy-Atoms
+DESCRIPTION:Biology: Organisms and population\nChemistry: Electrochemistry\nPhysics: Atoms\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261115@neet2027
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:MOCK TEST - NEET: Bio-Ecosystem | Chem-Chemical Kinetics | Phy-Nuclei
+DESCRIPTION:Biology: Ecosystem\nChemistry: Chemical Kinetics\nPhysics: Nuclei\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log\nMOCK TEST TODAY
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261116@neet2027
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:NEET: Bio-Ecosystem | Chem-Chemical Kinetics | Phy-Nuclei
+DESCRIPTION:Biology: Ecosystem\nChemistry: Chemical Kinetics\nPhysics: Nuclei\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261117@neet2027
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:NEET: Bio-Biodiversity and conservation | Chem-Chemical Kinetics | Phy-Nuclei
+DESCRIPTION:Biology: Biodiversity and conservation\nChemistry: Chemical Kinetics\nPhysics: Nuclei\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261118@neet2027
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:NEET: Bio-Biodiversity and conservation | Chem-The p-Block Elements | Phy-Semiconductor Electr
+DESCRIPTION:Biology: Biodiversity and conservation\nChemistry: The p-Block Elements (Class 12)\nPhysics: Semiconductor Electronics\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261119@neet2027
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:NEET: Bio-Structural Organisation in Ani | Chem-The p-Block Elements | Phy-Semiconductor Electr
+DESCRIPTION:Biology: Structural Organisation in Animals (Animal Tissues)\nChemistry: The p-Block Elements (Class 12)\nPhysics: Semiconductor Electronics\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261120@neet2027
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:NEET: Bio-Structural Organisation in Ani | Chem-The p-Block Elements | Phy-Semiconductor Electr
+DESCRIPTION:Biology: Structural Organisation in Animals (Animal Tissues)\nChemistry: The p-Block Elements (Class 12)\nPhysics: Semiconductor Electronics\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261121@neet2027
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:NEET: Bio-Biomolecules | Chem-The d and f-Block El | Phy-Units and Measuremen
+DESCRIPTION:Biology: Biomolecules\nChemistry: The d and f-Block Elements\nPhysics: Units and Measurements\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261122@neet2027
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:MOCK TEST - NEET: Bio-Biomolecules | Chem-The d and f-Block El | Phy-Units and Measuremen
+DESCRIPTION:Biology: Biomolecules\nChemistry: The d and f-Block Elements\nPhysics: Units and Measurements\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log\nMOCK TEST TODAY
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261123@neet2027
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:NEET: Bio-Digestion and Absorption | Chem-The d and f-Block El | Phy-Units and Measuremen
+DESCRIPTION:Biology: Digestion and Absorption\nChemistry: The d and f-Block Elements\nPhysics: Units and Measurements\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261124@neet2027
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:NEET: Bio-Digestion and Absorption | Chem-Coordination Compoun | Phy-Motion in a Straight
+DESCRIPTION:Biology: Digestion and Absorption\nChemistry: Coordination Compounds\nPhysics: Motion in a Straight Line\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261125@neet2027
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:NEET: Bio-Breathing and Exchange of Gase | Chem-Coordination Compoun | Phy-Motion in a Straight
+DESCRIPTION:Biology: Breathing and Exchange of Gases\nChemistry: Coordination Compounds\nPhysics: Motion in a Straight Line\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261126@neet2027
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:NEET: Bio-Breathing and Exchange of Gase | Chem-Coordination Compoun | Phy-Motion in a Straight
+DESCRIPTION:Biology: Breathing and Exchange of Gases\nChemistry: Coordination Compounds\nPhysics: Motion in a Straight Line\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261127@neet2027
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:NEET: Bio-Body Fluids and Circulation | Chem-Haloalkanes and Halo | Phy-Motion in a Plane
+DESCRIPTION:Biology: Body Fluids and Circulation\nChemistry: Haloalkanes and Haloarenes\nPhysics: Motion in a Plane\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261128@neet2027
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:NEET: Bio-Body Fluids and Circulation | Chem-Haloalkanes and Halo | Phy-Motion in a Plane
+DESCRIPTION:Biology: Body Fluids and Circulation\nChemistry: Haloalkanes and Haloarenes\nPhysics: Motion in a Plane\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261129@neet2027
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:MOCK TEST - NEET: Bio-Excretory Products and their E | Chem-Haloalkanes and Halo | Phy-Motion in a Plane
+DESCRIPTION:Biology: Excretory Products and their Elimination\nChemistry: Haloalkanes and Haloarenes\nPhysics: Motion in a Plane\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log\nMOCK TEST TODAY
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261130@neet2027
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:NEET: Bio-Excretory Products and their E | Chem-Alcohols, Phenols an | Phy-Laws of Motion
+DESCRIPTION:Biology: Excretory Products and their Elimination\nChemistry: Alcohols, Phenols and Ethers\nPhysics: Laws of Motion\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261201@neet2027
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:NEET: Bio-Locomotion and Movement | Chem-Alcohols, Phenols an | Phy-Laws of Motion
+DESCRIPTION:Biology: Locomotion and Movement\nChemistry: Alcohols, Phenols and Ethers\nPhysics: Laws of Motion\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261202@neet2027
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:NEET: Bio-Locomotion and Movement | Chem-Alcohols, Phenols an | Phy-Laws of Motion
+DESCRIPTION:Biology: Locomotion and Movement\nChemistry: Alcohols, Phenols and Ethers\nPhysics: Laws of Motion\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261203@neet2027
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:NEET: Bio-Neural Control and Coordinatio | Chem-Aldehydes, Ketones a | Phy-Work Energy and Powe
+DESCRIPTION:Biology: Neural Control and Coordination\nChemistry: Aldehydes, Ketones and Carboxylic Acids\nPhysics: Work Energy and Power\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261204@neet2027
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:NEET: Bio-Neural Control and Coordinatio | Chem-Aldehydes, Ketones a | Phy-Work Energy and Powe
+DESCRIPTION:Biology: Neural Control and Coordination\nChemistry: Aldehydes, Ketones and Carboxylic Acids\nPhysics: Work Energy and Power\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261205@neet2027
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:NEET: Bio-Chemical Coordination and Inte | Chem-Aldehydes, Ketones a | Phy-Work Energy and Powe
+DESCRIPTION:Biology: Chemical Coordination and Integration\nChemistry: Aldehydes, Ketones and Carboxylic Acids\nPhysics: Work Energy and Power\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261206@neet2027
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:MOCK TEST - NEET: Bio-Chemical Coordination and Inte | Chem-Amines | Phy-System of Particles 
+DESCRIPTION:Biology: Chemical Coordination and Integration\nChemistry: Amines\nPhysics: System of Particles and Rotational Motion\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log\nMOCK TEST TODAY
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261207@neet2027
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:NEET: Bio-Animal Kingdom | Chem-Amines | Phy-System of Particles 
+DESCRIPTION:Biology: Animal Kingdom\nChemistry: Amines\nPhysics: System of Particles and Rotational Motion\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261208@neet2027
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:NEET: Bio-Animal Kingdom | Chem-Amines | Phy-System of Particles 
+DESCRIPTION:Biology: Animal Kingdom\nChemistry: Amines\nPhysics: System of Particles and Rotational Motion\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261209@neet2027
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:NEET: Bio-Human Reproduction | Chem-Biomolecules | Phy-Gravitation
+DESCRIPTION:Biology: Human Reproduction\nChemistry: Biomolecules\nPhysics: Gravitation\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261210@neet2027
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:NEET: Bio-Human Reproduction | Chem-Biomolecules | Phy-Gravitation
+DESCRIPTION:Biology: Human Reproduction\nChemistry: Biomolecules\nPhysics: Gravitation\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261211@neet2027
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:NEET: Bio-Reproductive Health | Chem-Biomolecules | Phy-Gravitation
+DESCRIPTION:Biology: Reproductive Health\nChemistry: Biomolecules\nPhysics: Gravitation\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261212@neet2027
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:NEET: Bio-Reproductive Health | Chem-Some basic concepts  | Phy-Mechanical Propertie
+DESCRIPTION:Biology: Reproductive Health\nChemistry: Some basic concepts of chemistry\nPhysics: Mechanical Properties of Solids\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261213@neet2027
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:MOCK TEST - NEET: Bio-Evolution | Chem-Some basic concepts  | Phy-Mechanical Propertie
+DESCRIPTION:Biology: Evolution\nChemistry: Some basic concepts of chemistry\nPhysics: Mechanical Properties of Solids\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log\nMOCK TEST TODAY
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261214@neet2027
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+SUMMARY:NEET: Bio-Evolution | Chem-Some basic concepts  | Phy-Mechanical Propertie
+DESCRIPTION:Biology: Evolution\nChemistry: Some basic concepts of chemistry\nPhysics: Mechanical Properties of Solids\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261215@neet2027
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:NEET: Bio-Human Health and Disease | Chem-Structure of Atom | Phy-Mechanical Propertie
+DESCRIPTION:Biology: Human Health and Disease\nChemistry: Structure of Atom\nPhysics: Mechanical Properties of Fluids\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261216@neet2027
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:NEET: Bio-Human Health and Disease | Chem-Structure of Atom | Phy-Mechanical Propertie
+DESCRIPTION:Biology: Human Health and Disease\nChemistry: Structure of Atom\nPhysics: Mechanical Properties of Fluids\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261217@neet2027
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:NEET: Bio-Biotechnology - Principles and | Chem-Structure of Atom | Phy-Mechanical Propertie
+DESCRIPTION:Biology: Biotechnology - Principles and Processes\nChemistry: Structure of Atom\nPhysics: Mechanical Properties of Fluids\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261218@neet2027
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:NEET: Bio-Biotechnology - Principles and | Chem-Classification of El | Phy-Thermal Properties o
+DESCRIPTION:Biology: Biotechnology - Principles and Processes\nChemistry: Classification of Elements and Periodicity in Properties\nPhysics: Thermal Properties of Matter\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261219@neet2027
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:NEET: Bio-Biotechnology and its applicat | Chem-Classification of El | Phy-Thermal Properties o
+DESCRIPTION:Biology: Biotechnology and its applications\nChemistry: Classification of Elements and Periodicity in Properties\nPhysics: Thermal Properties of Matter\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261220@neet2027
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:MOCK TEST - NEET: Bio-Biotechnology and its applicat | Chem-Classification of El | Phy-Thermal Properties o
+DESCRIPTION:Biology: Biotechnology and its applications\nChemistry: Classification of Elements and Periodicity in Properties\nPhysics: Thermal Properties of Matter\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log\nMOCK TEST TODAY
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261221@neet2027
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+SUMMARY:NEET: Bio-Cell - the unit of life | Chem-Chemical Bonding and | Phy-Thermodynamics
+DESCRIPTION:Biology: Cell - the unit of life\nChemistry: Chemical Bonding and Molecular Structure\nPhysics: Thermodynamics\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261222@neet2027
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+SUMMARY:NEET: Bio-Cell - the unit of life | Chem-Chemical Bonding and | Phy-Thermodynamics
+DESCRIPTION:Biology: Cell - the unit of life\nChemistry: Chemical Bonding and Molecular Structure\nPhysics: Thermodynamics\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261223@neet2027
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:NEET: Bio-Cell cycle and cell division | Chem-Chemical Bonding and | Phy-Thermodynamics
+DESCRIPTION:Biology: Cell cycle and cell division\nChemistry: Chemical Bonding and Molecular Structure\nPhysics: Thermodynamics\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261224@neet2027
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+SUMMARY:NEET: Bio-Cell cycle and cell division | Chem-Thermodynamics | Phy-Kinetic Theory
+DESCRIPTION:Biology: Cell cycle and cell division\nChemistry: Thermodynamics\nPhysics: Kinetic Theory\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261225@neet2027
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:NEET: Bio-The living world | Chem-Thermodynamics | Phy-Kinetic Theory
+DESCRIPTION:Biology: The living world\nChemistry: Thermodynamics\nPhysics: Kinetic Theory\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261226@neet2027
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:NEET: Bio-The living world | Chem-Thermodynamics | Phy-Kinetic Theory
+DESCRIPTION:Biology: The living world\nChemistry: Thermodynamics\nPhysics: Kinetic Theory\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261227@neet2027
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:MOCK TEST - NEET: Bio-Biological classification | Chem-Equilibrium | Phy-Oscillations
+DESCRIPTION:Biology: Biological classification\nChemistry: Equilibrium\nPhysics: Oscillations\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log\nMOCK TEST TODAY
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261228@neet2027
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+SUMMARY:NEET: Bio-Biological classification | Chem-Equilibrium | Phy-Oscillations
+DESCRIPTION:Biology: Biological classification\nChemistry: Equilibrium\nPhysics: Oscillations\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261229@neet2027
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+SUMMARY:NEET: Bio-Morphology of flowering plant | Chem-Equilibrium | Phy-Oscillations
+DESCRIPTION:Biology: Morphology of flowering plant\nChemistry: Equilibrium\nPhysics: Oscillations\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261230@neet2027
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:NEET: Bio-Morphology of flowering plant | Chem-Redox Reactions | Phy-Waves
+DESCRIPTION:Biology: Morphology of flowering plant\nChemistry: Redox Reactions\nPhysics: Waves\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261231@neet2027
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:NEET: Bio-Anatomy of flowering plant | Chem-Redox Reactions | Phy-Waves
+DESCRIPTION:Biology: Anatomy of flowering plant\nChemistry: Redox Reactions\nPhysics: Waves\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270101@neet2027
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:NEET: Bio-Anatomy of flowering plant | Chem-Redox Reactions | Phy-Waves
+DESCRIPTION:Biology: Anatomy of flowering plant\nChemistry: Redox Reactions\nPhysics: Waves\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270102@neet2027
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:NEET: Bio-Plant kingdom | Chem-The p-Block Elements | Phy-Electric Charges and
+DESCRIPTION:Biology: Plant kingdom\nChemistry: The p-Block Elements (Class 11)\nPhysics: Electric Charges and Fields\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270103@neet2027
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:MOCK TEST - NEET: Bio-Plant kingdom | Chem-The p-Block Elements | Phy-Electric Charges and
+DESCRIPTION:Biology: Plant kingdom\nChemistry: The p-Block Elements (Class 11)\nPhysics: Electric Charges and Fields\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log\nMOCK TEST TODAY
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270104@neet2027
+DTSTART;VALUE=DATE:20270104
+DTEND;VALUE=DATE:20270105
+SUMMARY:NEET: Bio-Photosynthesis in higher plant | Chem-The p-Block Elements | Phy-Electric Charges and
+DESCRIPTION:Biology: Photosynthesis in higher plants\nChemistry: The p-Block Elements (Class 11)\nPhysics: Electric Charges and Fields\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270105@neet2027
+DTSTART;VALUE=DATE:20270105
+DTEND;VALUE=DATE:20270106
+SUMMARY:NEET: Bio-Photosynthesis in higher plant | Chem-Organic Chemistry -  | Phy-Electrostatic Potent
+DESCRIPTION:Biology: Photosynthesis in higher plants\nChemistry: Organic Chemistry - Some Basic Principles and Techniques\nPhysics: Electrostatic Potential and Capacitance\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270106@neet2027
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:NEET: Bio-Respiration in plants | Chem-Organic Chemistry -  | Phy-Electrostatic Potent
+DESCRIPTION:Biology: Respiration in plants\nChemistry: Organic Chemistry - Some Basic Principles and Techniques\nPhysics: Electrostatic Potential and Capacitance\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270107@neet2027
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270108
+SUMMARY:NEET: Bio-Respiration in plants | Chem-Organic Chemistry -  | Phy-Electrostatic Potent
+DESCRIPTION:Biology: Respiration in plants\nChemistry: Organic Chemistry - Some Basic Principles and Techniques\nPhysics: Electrostatic Potential and Capacitance\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270108@neet2027
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+SUMMARY:NEET: Bio-Plant growth and development | Chem-Hydrocarbons | Phy-Current Electricity
+DESCRIPTION:Biology: Plant growth and development\nChemistry: Hydrocarbons\nPhysics: Current Electricity\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270109@neet2027
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:NEET: Bio-Plant growth and development | Chem-Hydrocarbons | Phy-Current Electricity
+DESCRIPTION:Biology: Plant growth and development\nChemistry: Hydrocarbons\nPhysics: Current Electricity\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270110@neet2027
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:MOCK TEST - NEET: Bio-Sexual reproduction in floweri | Chem-Hydrocarbons | Phy-Current Electricity
+DESCRIPTION:Biology: Sexual reproduction in flowering plant\nChemistry: Hydrocarbons\nPhysics: Current Electricity\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log\nMOCK TEST TODAY
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270111@neet2027
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270112
+SUMMARY:NEET: Bio-Sexual reproduction in floweri | Chem-Solutions | Phy-Moving Charges and M
+DESCRIPTION:Biology: Sexual reproduction in flowering plant\nChemistry: Solutions\nPhysics: Moving Charges and Magnetism\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270112@neet2027
+DTSTART;VALUE=DATE:20270112
+DTEND;VALUE=DATE:20270113
+SUMMARY:NEET: Bio-Principles of inheritance and  | Chem-Solutions | Phy-Moving Charges and M
+DESCRIPTION:Biology: Principles of inheritance and variation\nChemistry: Solutions\nPhysics: Moving Charges and Magnetism\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270113@neet2027
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+SUMMARY:NEET: Bio-Principles of inheritance and  | Chem-Solutions | Phy-Moving Charges and M
+DESCRIPTION:Biology: Principles of inheritance and variation\nChemistry: Solutions\nPhysics: Moving Charges and Magnetism\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270114@neet2027
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270115
+SUMMARY:NEET: Bio-Molecular basis of inheritance | Chem-Electrochemistry | Phy-Magnetism and Matter
+DESCRIPTION:Biology: Molecular basis of inheritance\nChemistry: Electrochemistry\nPhysics: Magnetism and Matter\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270115@neet2027
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:NEET: Bio-Molecular basis of inheritance | Chem-Electrochemistry | Phy-Magnetism and Matter
+DESCRIPTION:Biology: Molecular basis of inheritance\nChemistry: Electrochemistry\nPhysics: Magnetism and Matter\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270116@neet2027
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:NEET: Bio-Microbes in human welfare | Chem-Electrochemistry | Phy-Magnetism and Matter
+DESCRIPTION:Biology: Microbes in human welfare\nChemistry: Electrochemistry\nPhysics: Magnetism and Matter\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270117@neet2027
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:MOCK TEST - NEET: Bio-Microbes in human welfare | Chem-Chemical Kinetics | Phy-Electromagnetic Indu
+DESCRIPTION:Biology: Microbes in human welfare\nChemistry: Chemical Kinetics\nPhysics: Electromagnetic Induction\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log\nMOCK TEST TODAY
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270118@neet2027
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270119
+SUMMARY:NEET: Bio-Organisms and population | Chem-Chemical Kinetics | Phy-Electromagnetic Indu
+DESCRIPTION:Biology: Organisms and population\nChemistry: Chemical Kinetics\nPhysics: Electromagnetic Induction\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270119@neet2027
+DTSTART;VALUE=DATE:20270119
+DTEND;VALUE=DATE:20270120
+SUMMARY:NEET: Bio-Organisms and population | Chem-Chemical Kinetics | Phy-Electromagnetic Indu
+DESCRIPTION:Biology: Organisms and population\nChemistry: Chemical Kinetics\nPhysics: Electromagnetic Induction\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270120@neet2027
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+SUMMARY:NEET: Bio-Ecosystem | Chem-The p-Block Elements | Phy-Alternating Current
+DESCRIPTION:Biology: Ecosystem\nChemistry: The p-Block Elements (Class 12)\nPhysics: Alternating Current\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270121@neet2027
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270122
+SUMMARY:NEET: Bio-Ecosystem | Chem-The p-Block Elements | Phy-Alternating Current
+DESCRIPTION:Biology: Ecosystem\nChemistry: The p-Block Elements (Class 12)\nPhysics: Alternating Current\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270122@neet2027
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
+SUMMARY:NEET: Bio-Biodiversity and conservation | Chem-The p-Block Elements | Phy-Alternating Current
+DESCRIPTION:Biology: Biodiversity and conservation\nChemistry: The p-Block Elements (Class 12)\nPhysics: Alternating Current\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270123@neet2027
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:NEET: Bio-Biodiversity and conservation | Chem-The d and f-Block El | Phy-Electromagnetic Wave
+DESCRIPTION:Biology: Biodiversity and conservation\nChemistry: The d and f-Block Elements\nPhysics: Electromagnetic Waves\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270124@neet2027
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:MOCK TEST - NEET: Bio-Structural Organisation in Ani | Chem-The d and f-Block El | Phy-Electromagnetic Wave
+DESCRIPTION:Biology: Structural Organisation in Animals (Animal Tissues)\nChemistry: The d and f-Block Elements\nPhysics: Electromagnetic Waves\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log\nMOCK TEST TODAY
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270125@neet2027
+DTSTART;VALUE=DATE:20270125
+DTEND;VALUE=DATE:20270126
+SUMMARY:NEET: Bio-Structural Organisation in Ani | Chem-The d and f-Block El | Phy-Electromagnetic Wave
+DESCRIPTION:Biology: Structural Organisation in Animals (Animal Tissues)\nChemistry: The d and f-Block Elements\nPhysics: Electromagnetic Waves\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270126@neet2027
+DTSTART;VALUE=DATE:20270126
+DTEND;VALUE=DATE:20270127
+SUMMARY:NEET: Bio-Biomolecules | Chem-Coordination Compoun | Phy-Ray Optics and Optic
+DESCRIPTION:Biology: Biomolecules\nChemistry: Coordination Compounds\nPhysics: Ray Optics and Optical Instruments\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270127@neet2027
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+SUMMARY:NEET: Bio-Biomolecules | Chem-Coordination Compoun | Phy-Ray Optics and Optic
+DESCRIPTION:Biology: Biomolecules\nChemistry: Coordination Compounds\nPhysics: Ray Optics and Optical Instruments\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270128@neet2027
+DTSTART;VALUE=DATE:20270128
+DTEND;VALUE=DATE:20270129
+SUMMARY:NEET: Bio-Digestion and Absorption | Chem-Coordination Compoun | Phy-Ray Optics and Optic
+DESCRIPTION:Biology: Digestion and Absorption\nChemistry: Coordination Compounds\nPhysics: Ray Optics and Optical Instruments\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270129@neet2027
+DTSTART;VALUE=DATE:20270129
+DTEND;VALUE=DATE:20270130
+SUMMARY:NEET: Bio-Digestion and Absorption | Chem-Haloalkanes and Halo | Phy-Wave Optics
+DESCRIPTION:Biology: Digestion and Absorption\nChemistry: Haloalkanes and Haloarenes\nPhysics: Wave Optics\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270130@neet2027
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:NEET: Bio-Breathing and Exchange of Gase | Chem-Haloalkanes and Halo | Phy-Wave Optics
+DESCRIPTION:Biology: Breathing and Exchange of Gases\nChemistry: Haloalkanes and Haloarenes\nPhysics: Wave Optics\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270131@neet2027
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:MOCK TEST - NEET: Bio-Breathing and Exchange of Gase | Chem-Haloalkanes and Halo | Phy-Wave Optics
+DESCRIPTION:Biology: Breathing and Exchange of Gases\nChemistry: Haloalkanes and Haloarenes\nPhysics: Wave Optics\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log\nMOCK TEST TODAY
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270201@neet2027
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270202
+SUMMARY:NEET: Bio-Body Fluids and Circulation | Chem-Alcohols, Phenols an | Phy-Dual Nature of Radia
+DESCRIPTION:Biology: Body Fluids and Circulation\nChemistry: Alcohols, Phenols and Ethers\nPhysics: Dual Nature of Radiation and Matter\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270202@neet2027
+DTSTART;VALUE=DATE:20270202
+DTEND;VALUE=DATE:20270203
+SUMMARY:NEET: Bio-Body Fluids and Circulation | Chem-Alcohols, Phenols an | Phy-Dual Nature of Radia
+DESCRIPTION:Biology: Body Fluids and Circulation\nChemistry: Alcohols, Phenols and Ethers\nPhysics: Dual Nature of Radiation and Matter\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270203@neet2027
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270204
+SUMMARY:NEET: Bio-Excretory Products and their E | Chem-Alcohols, Phenols an | Phy-Dual Nature of Radia
+DESCRIPTION:Biology: Excretory Products and their Elimination\nChemistry: Alcohols, Phenols and Ethers\nPhysics: Dual Nature of Radiation and Matter\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270204@neet2027
+DTSTART;VALUE=DATE:20270204
+DTEND;VALUE=DATE:20270205
+SUMMARY:NEET: Bio-Excretory Products and their E | Chem-Aldehydes, Ketones a | Phy-Atoms
+DESCRIPTION:Biology: Excretory Products and their Elimination\nChemistry: Aldehydes, Ketones and Carboxylic Acids\nPhysics: Atoms\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270205@neet2027
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270206
+SUMMARY:NEET: Bio-Locomotion and Movement | Chem-Aldehydes, Ketones a | Phy-Atoms
+DESCRIPTION:Biology: Locomotion and Movement\nChemistry: Aldehydes, Ketones and Carboxylic Acids\nPhysics: Atoms\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270206@neet2027
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:NEET: Bio-Locomotion and Movement | Chem-Aldehydes, Ketones a | Phy-Atoms
+DESCRIPTION:Biology: Locomotion and Movement\nChemistry: Aldehydes, Ketones and Carboxylic Acids\nPhysics: Atoms\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270207@neet2027
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:MOCK TEST - NEET: Bio-Neural Control and Coordinatio | Chem-Amines | Phy-Nuclei
+DESCRIPTION:Biology: Neural Control and Coordination\nChemistry: Amines\nPhysics: Nuclei\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log\nMOCK TEST TODAY
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270208@neet2027
+DTSTART;VALUE=DATE:20270208
+DTEND;VALUE=DATE:20270209
+SUMMARY:NEET: Bio-Neural Control and Coordinatio | Chem-Amines | Phy-Nuclei
+DESCRIPTION:Biology: Neural Control and Coordination\nChemistry: Amines\nPhysics: Nuclei\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270209@neet2027
+DTSTART;VALUE=DATE:20270209
+DTEND;VALUE=DATE:20270210
+SUMMARY:NEET: Bio-Chemical Coordination and Inte | Chem-Amines | Phy-Nuclei
+DESCRIPTION:Biology: Chemical Coordination and Integration\nChemistry: Amines\nPhysics: Nuclei\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270210@neet2027
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270211
+SUMMARY:NEET: Bio-Chemical Coordination and Inte | Chem-Biomolecules | Phy-Semiconductor Electr
+DESCRIPTION:Biology: Chemical Coordination and Integration\nChemistry: Biomolecules\nPhysics: Semiconductor Electronics\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270211@neet2027
+DTSTART;VALUE=DATE:20270211
+DTEND;VALUE=DATE:20270212
+SUMMARY:NEET: Bio-Animal Kingdom | Chem-Biomolecules | Phy-Semiconductor Electr
+DESCRIPTION:Biology: Animal Kingdom\nChemistry: Biomolecules\nPhysics: Semiconductor Electronics\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270212@neet2027
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+SUMMARY:NEET: Bio-Animal Kingdom | Chem-Biomolecules | Phy-Semiconductor Electr
+DESCRIPTION:Biology: Animal Kingdom\nChemistry: Biomolecules\nPhysics: Semiconductor Electronics\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270213@neet2027
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:NEET: Bio-Human Reproduction | Chem-Some basic concepts  | Phy-Units and Measuremen
+DESCRIPTION:Biology: Human Reproduction\nChemistry: Some basic concepts of chemistry\nPhysics: Units and Measurements\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270214@neet2027
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:MOCK TEST - NEET: Bio-Human Reproduction | Chem-Some basic concepts  | Phy-Units and Measuremen
+DESCRIPTION:Biology: Human Reproduction\nChemistry: Some basic concepts of chemistry\nPhysics: Units and Measurements\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log\nMOCK TEST TODAY
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270215@neet2027
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270216
+SUMMARY:NEET: Bio-Reproductive Health | Chem-Some basic concepts  | Phy-Units and Measuremen
+DESCRIPTION:Biology: Reproductive Health\nChemistry: Some basic concepts of chemistry\nPhysics: Units and Measurements\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270216@neet2027
+DTSTART;VALUE=DATE:20270216
+DTEND;VALUE=DATE:20270217
+SUMMARY:NEET: Bio-Reproductive Health | Chem-Structure of Atom | Phy-Motion in a Straight
+DESCRIPTION:Biology: Reproductive Health\nChemistry: Structure of Atom\nPhysics: Motion in a Straight Line\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270217@neet2027
+DTSTART;VALUE=DATE:20270217
+DTEND;VALUE=DATE:20270218
+SUMMARY:NEET: Bio-Evolution | Chem-Structure of Atom | Phy-Motion in a Straight
+DESCRIPTION:Biology: Evolution\nChemistry: Structure of Atom\nPhysics: Motion in a Straight Line\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270218@neet2027
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270219
+SUMMARY:NEET: Bio-Evolution | Chem-Structure of Atom | Phy-Motion in a Straight
+DESCRIPTION:Biology: Evolution\nChemistry: Structure of Atom\nPhysics: Motion in a Straight Line\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270219@neet2027
+DTSTART;VALUE=DATE:20270219
+DTEND;VALUE=DATE:20270220
+SUMMARY:NEET: Bio-Human Health and Disease | Chem-Classification of El | Phy-Motion in a Plane
+DESCRIPTION:Biology: Human Health and Disease\nChemistry: Classification of Elements and Periodicity in Properties\nPhysics: Motion in a Plane\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270220@neet2027
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:NEET: Bio-Human Health and Disease | Chem-Classification of El | Phy-Motion in a Plane
+DESCRIPTION:Biology: Human Health and Disease\nChemistry: Classification of Elements and Periodicity in Properties\nPhysics: Motion in a Plane\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270221@neet2027
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:MOCK TEST - NEET: Bio-Biotechnology - Principles and | Chem-Classification of El | Phy-Motion in a Plane
+DESCRIPTION:Biology: Biotechnology - Principles and Processes\nChemistry: Classification of Elements and Periodicity in Properties\nPhysics: Motion in a Plane\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log\nMOCK TEST TODAY
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270222@neet2027
+DTSTART;VALUE=DATE:20270222
+DTEND;VALUE=DATE:20270223
+SUMMARY:NEET: Bio-Biotechnology - Principles and | Chem-Chemical Bonding and | Phy-Laws of Motion
+DESCRIPTION:Biology: Biotechnology - Principles and Processes\nChemistry: Chemical Bonding and Molecular Structure\nPhysics: Laws of Motion\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270223@neet2027
+DTSTART;VALUE=DATE:20270223
+DTEND;VALUE=DATE:20270224
+SUMMARY:NEET: Bio-Biotechnology and its applicat | Chem-Chemical Bonding and | Phy-Laws of Motion
+DESCRIPTION:Biology: Biotechnology and its applications\nChemistry: Chemical Bonding and Molecular Structure\nPhysics: Laws of Motion\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270224@neet2027
+DTSTART;VALUE=DATE:20270224
+DTEND;VALUE=DATE:20270225
+SUMMARY:NEET: Bio-Biotechnology and its applicat | Chem-Chemical Bonding and | Phy-Laws of Motion
+DESCRIPTION:Biology: Biotechnology and its applications\nChemistry: Chemical Bonding and Molecular Structure\nPhysics: Laws of Motion\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270225@neet2027
+DTSTART;VALUE=DATE:20270225
+DTEND;VALUE=DATE:20270226
+SUMMARY:NEET: Bio-Cell - the unit of life | Chem-Thermodynamics | Phy-Work Energy and Powe
+DESCRIPTION:Biology: Cell - the unit of life\nChemistry: Thermodynamics\nPhysics: Work Energy and Power\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270226@neet2027
+DTSTART;VALUE=DATE:20270226
+DTEND;VALUE=DATE:20270227
+SUMMARY:NEET: Bio-Cell - the unit of life | Chem-Thermodynamics | Phy-Work Energy and Powe
+DESCRIPTION:Biology: Cell - the unit of life\nChemistry: Thermodynamics\nPhysics: Work Energy and Power\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270227@neet2027
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:NEET: Bio-Cell cycle and cell division | Chem-Thermodynamics | Phy-Work Energy and Powe
+DESCRIPTION:Biology: Cell cycle and cell division\nChemistry: Thermodynamics\nPhysics: Work Energy and Power\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270228@neet2027
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:MOCK TEST - NEET: Bio-Cell cycle and cell division | Chem-Equilibrium | Phy-System of Particles 
+DESCRIPTION:Biology: Cell cycle and cell division\nChemistry: Equilibrium\nPhysics: System of Particles and Rotational Motion\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log\nMOCK TEST TODAY
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270301@neet2027
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270302
+SUMMARY:NEET: Bio-The living world | Chem-Equilibrium | Phy-System of Particles 
+DESCRIPTION:Biology: The living world\nChemistry: Equilibrium\nPhysics: System of Particles and Rotational Motion\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270302@neet2027
+DTSTART;VALUE=DATE:20270302
+DTEND;VALUE=DATE:20270303
+SUMMARY:NEET: Bio-The living world | Chem-Equilibrium | Phy-System of Particles 
+DESCRIPTION:Biology: The living world\nChemistry: Equilibrium\nPhysics: System of Particles and Rotational Motion\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270303@neet2027
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270304
+SUMMARY:NEET: Bio-Biological classification | Chem-Redox Reactions | Phy-Gravitation
+DESCRIPTION:Biology: Biological classification\nChemistry: Redox Reactions\nPhysics: Gravitation\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270304@neet2027
+DTSTART;VALUE=DATE:20270304
+DTEND;VALUE=DATE:20270305
+SUMMARY:NEET: Bio-Biological classification | Chem-Redox Reactions | Phy-Gravitation
+DESCRIPTION:Biology: Biological classification\nChemistry: Redox Reactions\nPhysics: Gravitation\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270305@neet2027
+DTSTART;VALUE=DATE:20270305
+DTEND;VALUE=DATE:20270306
+SUMMARY:NEET: Bio-Morphology of flowering plant | Chem-Redox Reactions | Phy-Gravitation
+DESCRIPTION:Biology: Morphology of flowering plant\nChemistry: Redox Reactions\nPhysics: Gravitation\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270306@neet2027
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:NEET: Bio-Morphology of flowering plant | Chem-The p-Block Elements | Phy-Mechanical Propertie
+DESCRIPTION:Biology: Morphology of flowering plant\nChemistry: The p-Block Elements (Class 11)\nPhysics: Mechanical Properties of Solids\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270307@neet2027
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+SUMMARY:MOCK TEST - NEET: Bio-Anatomy of flowering plant | Chem-The p-Block Elements | Phy-Mechanical Propertie
+DESCRIPTION:Biology: Anatomy of flowering plant\nChemistry: The p-Block Elements (Class 11)\nPhysics: Mechanical Properties of Solids\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log\nMOCK TEST TODAY
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270308@neet2027
+DTSTART;VALUE=DATE:20270308
+DTEND;VALUE=DATE:20270309
+SUMMARY:NEET: Bio-Anatomy of flowering plant | Chem-The p-Block Elements | Phy-Mechanical Propertie
+DESCRIPTION:Biology: Anatomy of flowering plant\nChemistry: The p-Block Elements (Class 11)\nPhysics: Mechanical Properties of Solids\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270309@neet2027
+DTSTART;VALUE=DATE:20270309
+DTEND;VALUE=DATE:20270310
+SUMMARY:NEET: Bio-Plant kingdom | Chem-Organic Chemistry -  | Phy-Mechanical Propertie
+DESCRIPTION:Biology: Plant kingdom\nChemistry: Organic Chemistry - Some Basic Principles and Techniques\nPhysics: Mechanical Properties of Fluids\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270310@neet2027
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270311
+SUMMARY:NEET: Bio-Plant kingdom | Chem-Organic Chemistry -  | Phy-Mechanical Propertie
+DESCRIPTION:Biology: Plant kingdom\nChemistry: Organic Chemistry - Some Basic Principles and Techniques\nPhysics: Mechanical Properties of Fluids\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270311@neet2027
+DTSTART;VALUE=DATE:20270311
+DTEND;VALUE=DATE:20270312
+SUMMARY:NEET: Bio-Photosynthesis in higher plant | Chem-Organic Chemistry -  | Phy-Mechanical Propertie
+DESCRIPTION:Biology: Photosynthesis in higher plants\nChemistry: Organic Chemistry - Some Basic Principles and Techniques\nPhysics: Mechanical Properties of Fluids\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270312@neet2027
+DTSTART;VALUE=DATE:20270312
+DTEND;VALUE=DATE:20270313
+SUMMARY:NEET: Bio-Photosynthesis in higher plant | Chem-Hydrocarbons | Phy-Thermal Properties o
+DESCRIPTION:Biology: Photosynthesis in higher plants\nChemistry: Hydrocarbons\nPhysics: Thermal Properties of Matter\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270313@neet2027
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:NEET: Bio-Respiration in plants | Chem-Hydrocarbons | Phy-Thermal Properties o
+DESCRIPTION:Biology: Respiration in plants\nChemistry: Hydrocarbons\nPhysics: Thermal Properties of Matter\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270314@neet2027
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:MOCK TEST - NEET: Bio-Respiration in plants | Chem-Hydrocarbons | Phy-Thermal Properties o
+DESCRIPTION:Biology: Respiration in plants\nChemistry: Hydrocarbons\nPhysics: Thermal Properties of Matter\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log\nMOCK TEST TODAY
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270315@neet2027
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270316
+SUMMARY:NEET: Bio-Plant growth and development | Chem-Solutions | Phy-Thermodynamics
+DESCRIPTION:Biology: Plant growth and development\nChemistry: Solutions\nPhysics: Thermodynamics\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270316@neet2027
+DTSTART;VALUE=DATE:20270316
+DTEND;VALUE=DATE:20270317
+SUMMARY:NEET: Bio-Plant growth and development | Chem-Solutions | Phy-Thermodynamics
+DESCRIPTION:Biology: Plant growth and development\nChemistry: Solutions\nPhysics: Thermodynamics\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270317@neet2027
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270318
+SUMMARY:NEET: Bio-Sexual reproduction in floweri | Chem-Solutions | Phy-Thermodynamics
+DESCRIPTION:Biology: Sexual reproduction in flowering plant\nChemistry: Solutions\nPhysics: Thermodynamics\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270318@neet2027
+DTSTART;VALUE=DATE:20270318
+DTEND;VALUE=DATE:20270319
+SUMMARY:NEET: Bio-Sexual reproduction in floweri | Chem-Electrochemistry | Phy-Kinetic Theory
+DESCRIPTION:Biology: Sexual reproduction in flowering plant\nChemistry: Electrochemistry\nPhysics: Kinetic Theory\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270319@neet2027
+DTSTART;VALUE=DATE:20270319
+DTEND;VALUE=DATE:20270320
+SUMMARY:NEET: Bio-Principles of inheritance and  | Chem-Electrochemistry | Phy-Kinetic Theory
+DESCRIPTION:Biology: Principles of inheritance and variation\nChemistry: Electrochemistry\nPhysics: Kinetic Theory\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270320@neet2027
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:NEET: Bio-Principles of inheritance and  | Chem-Electrochemistry | Phy-Kinetic Theory
+DESCRIPTION:Biology: Principles of inheritance and variation\nChemistry: Electrochemistry\nPhysics: Kinetic Theory\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270321@neet2027
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:MOCK TEST - NEET: Bio-Molecular basis of inheritance | Chem-Chemical Kinetics | Phy-Oscillations
+DESCRIPTION:Biology: Molecular basis of inheritance\nChemistry: Chemical Kinetics\nPhysics: Oscillations\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log\nMOCK TEST TODAY
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270322@neet2027
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270323
+SUMMARY:NEET: Bio-Molecular basis of inheritance | Chem-Chemical Kinetics | Phy-Oscillations
+DESCRIPTION:Biology: Molecular basis of inheritance\nChemistry: Chemical Kinetics\nPhysics: Oscillations\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270323@neet2027
+DTSTART;VALUE=DATE:20270323
+DTEND;VALUE=DATE:20270324
+SUMMARY:NEET: Bio-Microbes in human welfare | Chem-Chemical Kinetics | Phy-Oscillations
+DESCRIPTION:Biology: Microbes in human welfare\nChemistry: Chemical Kinetics\nPhysics: Oscillations\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270324@neet2027
+DTSTART;VALUE=DATE:20270324
+DTEND;VALUE=DATE:20270325
+SUMMARY:NEET: Bio-Microbes in human welfare | Chem-The p-Block Elements | Phy-Waves
+DESCRIPTION:Biology: Microbes in human welfare\nChemistry: The p-Block Elements (Class 12)\nPhysics: Waves\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270325@neet2027
+DTSTART;VALUE=DATE:20270325
+DTEND;VALUE=DATE:20270326
+SUMMARY:NEET: Bio-Organisms and population | Chem-The p-Block Elements | Phy-Waves
+DESCRIPTION:Biology: Organisms and population\nChemistry: The p-Block Elements (Class 12)\nPhysics: Waves\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270326@neet2027
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+SUMMARY:NEET: Bio-Organisms and population | Chem-The p-Block Elements | Phy-Waves
+DESCRIPTION:Biology: Organisms and population\nChemistry: The p-Block Elements (Class 12)\nPhysics: Waves\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270327@neet2027
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:NEET: Bio-Ecosystem | Chem-The d and f-Block El | Phy-Electric Charges and
+DESCRIPTION:Biology: Ecosystem\nChemistry: The d and f-Block Elements\nPhysics: Electric Charges and Fields\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270328@neet2027
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270329
+SUMMARY:MOCK TEST - NEET: Bio-Ecosystem | Chem-The d and f-Block El | Phy-Electric Charges and
+DESCRIPTION:Biology: Ecosystem\nChemistry: The d and f-Block Elements\nPhysics: Electric Charges and Fields\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log\nMOCK TEST TODAY
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270329@neet2027
+DTSTART;VALUE=DATE:20270329
+DTEND;VALUE=DATE:20270330
+SUMMARY:NEET: Bio-Biodiversity and conservation | Chem-The d and f-Block El | Phy-Electric Charges and
+DESCRIPTION:Biology: Biodiversity and conservation\nChemistry: The d and f-Block Elements\nPhysics: Electric Charges and Fields\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270330@neet2027
+DTSTART;VALUE=DATE:20270330
+DTEND;VALUE=DATE:20270331
+SUMMARY:NEET: Bio-Biodiversity and conservation | Chem-Coordination Compoun | Phy-Electrostatic Potent
+DESCRIPTION:Biology: Biodiversity and conservation\nChemistry: Coordination Compounds\nPhysics: Electrostatic Potential and Capacitance\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270331@neet2027
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+SUMMARY:NEET: Bio-Structural Organisation in Ani | Chem-Coordination Compoun | Phy-Electrostatic Potent
+DESCRIPTION:Biology: Structural Organisation in Animals (Animal Tissues)\nChemistry: Coordination Compounds\nPhysics: Electrostatic Potential and Capacitance\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270401@neet2027
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270402
+SUMMARY:NEET: Bio-Structural Organisation in Ani | Chem-Coordination Compoun | Phy-Electrostatic Potent
+DESCRIPTION:Biology: Structural Organisation in Animals (Animal Tissues)\nChemistry: Coordination Compounds\nPhysics: Electrostatic Potential and Capacitance\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270402@neet2027
+DTSTART;VALUE=DATE:20270402
+DTEND;VALUE=DATE:20270403
+SUMMARY:NEET: Bio-Biomolecules | Chem-Haloalkanes and Halo | Phy-Current Electricity
+DESCRIPTION:Biology: Biomolecules\nChemistry: Haloalkanes and Haloarenes\nPhysics: Current Electricity\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270403@neet2027
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:NEET: Bio-Biomolecules | Chem-Haloalkanes and Halo | Phy-Current Electricity
+DESCRIPTION:Biology: Biomolecules\nChemistry: Haloalkanes and Haloarenes\nPhysics: Current Electricity\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270404@neet2027
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:MOCK TEST - NEET: Bio-Digestion and Absorption | Chem-Haloalkanes and Halo | Phy-Current Electricity
+DESCRIPTION:Biology: Digestion and Absorption\nChemistry: Haloalkanes and Haloarenes\nPhysics: Current Electricity\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log\nMOCK TEST TODAY
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270405@neet2027
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270406
+SUMMARY:NEET: Bio-Digestion and Absorption | Chem-Alcohols, Phenols an | Phy-Moving Charges and M
+DESCRIPTION:Biology: Digestion and Absorption\nChemistry: Alcohols, Phenols and Ethers\nPhysics: Moving Charges and Magnetism\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270406@neet2027
+DTSTART;VALUE=DATE:20270406
+DTEND;VALUE=DATE:20270407
+SUMMARY:NEET: Bio-Breathing and Exchange of Gase | Chem-Alcohols, Phenols an | Phy-Moving Charges and M
+DESCRIPTION:Biology: Breathing and Exchange of Gases\nChemistry: Alcohols, Phenols and Ethers\nPhysics: Moving Charges and Magnetism\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270407@neet2027
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270408
+SUMMARY:NEET: Bio-Breathing and Exchange of Gase | Chem-Alcohols, Phenols an | Phy-Moving Charges and M
+DESCRIPTION:Biology: Breathing and Exchange of Gases\nChemistry: Alcohols, Phenols and Ethers\nPhysics: Moving Charges and Magnetism\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270408@neet2027
+DTSTART;VALUE=DATE:20270408
+DTEND;VALUE=DATE:20270409
+SUMMARY:NEET: Bio-Body Fluids and Circulation | Chem-Aldehydes, Ketones a | Phy-Magnetism and Matter
+DESCRIPTION:Biology: Body Fluids and Circulation\nChemistry: Aldehydes, Ketones and Carboxylic Acids\nPhysics: Magnetism and Matter\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270409@neet2027
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270410
+SUMMARY:NEET: Bio-Body Fluids and Circulation | Chem-Aldehydes, Ketones a | Phy-Magnetism and Matter
+DESCRIPTION:Biology: Body Fluids and Circulation\nChemistry: Aldehydes, Ketones and Carboxylic Acids\nPhysics: Magnetism and Matter\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270410@neet2027
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:NEET: Bio-Excretory Products and their E | Chem-Aldehydes, Ketones a | Phy-Magnetism and Matter
+DESCRIPTION:Biology: Excretory Products and their Elimination\nChemistry: Aldehydes, Ketones and Carboxylic Acids\nPhysics: Magnetism and Matter\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270411@neet2027
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:MOCK TEST - NEET: Bio-Excretory Products and their E | Chem-Amines | Phy-Electromagnetic Indu
+DESCRIPTION:Biology: Excretory Products and their Elimination\nChemistry: Amines\nPhysics: Electromagnetic Induction\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log\nMOCK TEST TODAY
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270412@neet2027
+DTSTART;VALUE=DATE:20270412
+DTEND;VALUE=DATE:20270413
+SUMMARY:NEET: Bio-Locomotion and Movement | Chem-Amines | Phy-Electromagnetic Indu
+DESCRIPTION:Biology: Locomotion and Movement\nChemistry: Amines\nPhysics: Electromagnetic Induction\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270413@neet2027
+DTSTART;VALUE=DATE:20270413
+DTEND;VALUE=DATE:20270414
+SUMMARY:NEET: Bio-Locomotion and Movement | Chem-Amines | Phy-Electromagnetic Indu
+DESCRIPTION:Biology: Locomotion and Movement\nChemistry: Amines\nPhysics: Electromagnetic Induction\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270414@neet2027
+DTSTART;VALUE=DATE:20270414
+DTEND;VALUE=DATE:20270415
+SUMMARY:NEET: Bio-Neural Control and Coordinatio | Chem-Biomolecules | Phy-Alternating Current
+DESCRIPTION:Biology: Neural Control and Coordination\nChemistry: Biomolecules\nPhysics: Alternating Current\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270415@neet2027
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:NEET: Bio-Neural Control and Coordinatio | Chem-Biomolecules | Phy-Alternating Current
+DESCRIPTION:Biology: Neural Control and Coordination\nChemistry: Biomolecules\nPhysics: Alternating Current\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270416@neet2027
+DTSTART;VALUE=DATE:20270416
+DTEND;VALUE=DATE:20270417
+SUMMARY:NEET: Bio-Chemical Coordination and Inte | Chem-Biomolecules | Phy-Alternating Current
+DESCRIPTION:Biology: Chemical Coordination and Integration\nChemistry: Biomolecules\nPhysics: Alternating Current\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270417@neet2027
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:NEET: Bio-Chemical Coordination and Inte | Chem-Some basic concepts  | Phy-Electromagnetic Wave
+DESCRIPTION:Biology: Chemical Coordination and Integration\nChemistry: Some basic concepts of chemistry\nPhysics: Electromagnetic Waves\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270418@neet2027
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+SUMMARY:MOCK TEST - NEET: Bio-Animal Kingdom | Chem-Some basic concepts  | Phy-Electromagnetic Wave
+DESCRIPTION:Biology: Animal Kingdom\nChemistry: Some basic concepts of chemistry\nPhysics: Electromagnetic Waves\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log\nMOCK TEST TODAY
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270419@neet2027
+DTSTART;VALUE=DATE:20270419
+DTEND;VALUE=DATE:20270420
+SUMMARY:NEET: Bio-Animal Kingdom | Chem-Some basic concepts  | Phy-Electromagnetic Wave
+DESCRIPTION:Biology: Animal Kingdom\nChemistry: Some basic concepts of chemistry\nPhysics: Electromagnetic Waves\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270420@neet2027
+DTSTART;VALUE=DATE:20270420
+DTEND;VALUE=DATE:20270421
+SUMMARY:NEET: Bio-Human Reproduction | Chem-Structure of Atom | Phy-Ray Optics and Optic
+DESCRIPTION:Biology: Human Reproduction\nChemistry: Structure of Atom\nPhysics: Ray Optics and Optical Instruments\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270421@neet2027
+DTSTART;VALUE=DATE:20270421
+DTEND;VALUE=DATE:20270422
+SUMMARY:NEET: Bio-Human Reproduction | Chem-Structure of Atom | Phy-Ray Optics and Optic
+DESCRIPTION:Biology: Human Reproduction\nChemistry: Structure of Atom\nPhysics: Ray Optics and Optical Instruments\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270422@neet2027
+DTSTART;VALUE=DATE:20270422
+DTEND;VALUE=DATE:20270423
+SUMMARY:NEET: Bio-Reproductive Health | Chem-Structure of Atom | Phy-Ray Optics and Optic
+DESCRIPTION:Biology: Reproductive Health\nChemistry: Structure of Atom\nPhysics: Ray Optics and Optical Instruments\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270423@neet2027
+DTSTART;VALUE=DATE:20270423
+DTEND;VALUE=DATE:20270424
+SUMMARY:NEET: Bio-Reproductive Health | Chem-Classification of El | Phy-Wave Optics
+DESCRIPTION:Biology: Reproductive Health\nChemistry: Classification of Elements and Periodicity in Properties\nPhysics: Wave Optics\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270424@neet2027
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:NEET: Bio-Evolution | Chem-Classification of El | Phy-Wave Optics
+DESCRIPTION:Biology: Evolution\nChemistry: Classification of Elements and Periodicity in Properties\nPhysics: Wave Optics\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270425@neet2027
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+SUMMARY:MOCK TEST - NEET: Bio-Evolution | Chem-Classification of El | Phy-Wave Optics
+DESCRIPTION:Biology: Evolution\nChemistry: Classification of Elements and Periodicity in Properties\nPhysics: Wave Optics\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log\nMOCK TEST TODAY
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270426@neet2027
+DTSTART;VALUE=DATE:20270426
+DTEND;VALUE=DATE:20270427
+SUMMARY:NEET: Bio-Human Health and Disease | Chem-Chemical Bonding and | Phy-Dual Nature of Radia
+DESCRIPTION:Biology: Human Health and Disease\nChemistry: Chemical Bonding and Molecular Structure\nPhysics: Dual Nature of Radiation and Matter\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270427@neet2027
+DTSTART;VALUE=DATE:20270427
+DTEND;VALUE=DATE:20270428
+SUMMARY:NEET: Bio-Human Health and Disease | Chem-Chemical Bonding and | Phy-Dual Nature of Radia
+DESCRIPTION:Biology: Human Health and Disease\nChemistry: Chemical Bonding and Molecular Structure\nPhysics: Dual Nature of Radiation and Matter\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270428@neet2027
+DTSTART;VALUE=DATE:20270428
+DTEND;VALUE=DATE:20270429
+SUMMARY:NEET: Bio-Biotechnology - Principles and | Chem-Chemical Bonding and | Phy-Dual Nature of Radia
+DESCRIPTION:Biology: Biotechnology - Principles and Processes\nChemistry: Chemical Bonding and Molecular Structure\nPhysics: Dual Nature of Radiation and Matter\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270429@neet2027
+DTSTART;VALUE=DATE:20270429
+DTEND;VALUE=DATE:20270430
+SUMMARY:NEET: Bio-Biotechnology - Principles and | Chem-Thermodynamics | Phy-Atoms
+DESCRIPTION:Biology: Biotechnology - Principles and Processes\nChemistry: Thermodynamics\nPhysics: Atoms\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270430@neet2027
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+SUMMARY:NEET: Bio-Biotechnology and its applicat | Chem-Thermodynamics | Phy-Atoms
+DESCRIPTION:Biology: Biotechnology and its applications\nChemistry: Thermodynamics\nPhysics: Atoms\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270501@neet2027
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:NEET: Bio-Biotechnology and its applicat | Chem-Thermodynamics | Phy-Atoms
+DESCRIPTION:Biology: Biotechnology and its applications\nChemistry: Thermodynamics\nPhysics: Atoms\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20270502@neet2027
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:MOCK TEST - NEET: Bio-Cell - the unit of life | Chem-Equilibrium | Phy-Nuclei
+DESCRIPTION:Biology: Cell - the unit of life\nChemistry: Equilibrium\nPhysics: Nuclei\nTasks: NCERT Read | PYQ 30 | Formula/Diagram | Error Log\nMOCK TEST TODAY
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:NEET Study Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
